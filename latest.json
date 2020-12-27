@@ -384,6 +384,27 @@
                }]
           }
         ]
+      },
+      {
+        "name": "Punjabi",
+        "albums": [
+         {
+             "name": "YAAR NI MILYA",
+             "image": "https://www.quirkybyte.com/wp-content/uploads/2020/06/11-16.jpg",
+             "songs":[
+               {
+                 "name": "YAAR NI MILYA",
+                 "image": "https://www.quirkybyte.com/wp-content/uploads/2020/06/11-16.jpg",
+                 "song-image": "https://www.quirkybyte.com/wp-content/uploads/2020/06/11-16.jpg",
+                 "singer": "Harrdy Sandhu",
+                 "music": "White Hill Music",
+                 "lyricsby": "Jaani",
+                 "lyrics": "Aje takk mainu aisa yaar nahiyo milya\nJide te yakeen karaan akhan bandh karke\nBade mile ne mainu do shaklan waale…\n\nAje takk mainu aisa pyaar nahiyo milya\nSatt mere lagge par rooh ohdi tadpe\nBade mile ne mainu akklan waale…\n\nLabhda main hoke jhalla\nDuniya te kalla kalla\nMilya ni koi mainu\nSaath na deve Allah\nTutt na jaave dil taiyon to rehnda darr ke\n\nAa jaiyo… sohneya…\nAa jaiyo… na jaiyo meherma… (x2)\n\nIdhar vekhan, udhar vekhan\nJidhar vekhan duniya main saari\n\nHey…\n\nIdhar vekhan, udhar vekhan\nJidhar vekhan duniya main saari\n\nPyaar di ki auqaat reh gayi\nJism vekh ke lagdi ae yaari\n\nKoi te labho aisa Heer te Laila jaisa\nRooh di jo gall kare haan\nDoor hi rakhe paisa\nKoi na poonje hanju\nKhada main nain bharke\n\nAje takk mainu aisa yaarr nahiyo milyaa\nJide te yakeen karaan akhan bandh karke\nBade mile ne mainu do shaklan waale…\n\nAje takk mainu aisa pyaar nahiyo milyaa\nSatt mere lagge par rooh ohdi tadpe\nBade mile ne mainu akklan waale…\n\nMain te tera, main te teri\nJo mooh te kehnde sohaan khaake\n\nHey…\n\nMain te tera, main te teri\nJo mooh te kehnde sohaan khaake\nSab ton pehlan ohi jaande\nMaut naal Jaani gale mila ke\n\nJinna vi waqt hai langa\nPeeda de naal hai ranga\nKade kade taan lagda ae\nJeen ton marrna changa\nMain na hun jeena Rabba\nLeja ve hath fadd ke\n\nAje takk mainu aisa yaarr nahiyo milyaa\nJide te yakeen karaan akhan bandh karke\nBade mile ne mainu do shaklan waale…\n\nAje takk mainu aisa pyaar nahiyo milyaa\nSatt mere lagge par rooh ohdi tadpe\nBade mile ne mainu akklan waale…"
+               }
+               ]
+             
+           }
+        ]
       }
     ]
   }
