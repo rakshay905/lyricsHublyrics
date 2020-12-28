@@ -405,6 +405,27 @@
              
            }
         ]
+      },
+      {
+        "name": "Collections",
+        "albums": [
+         {
+             "name": "Top 10 Hindi Songs (Soft/Romantic Songs)",
+             "image": "https://th.bing.com/th/id/OIP.88ujYK2WlnpN9h-BpnPW7QHaEK?pid=Api&rs=1",
+             "songs":[
+               {
+                 "name": "VALAM (Made In INDIA)",
+                 "image": "https://th.bing.com/th/id/OIP.88ujYK2WlnpN9h-BpnPW7QHaEK?pid=Api&rs=1",
+                 "song-image": "https://www.quirkybyte.com/wp-content/uploads/2020/06/11-16.jpg",
+                 "singer": "Arijit Singh, Priya Saraiya",
+                 "music": "Sachin-Jigar",
+                 "lyricsby": "Priya Saraiya, Sachin Sanghvi",
+                 "lyrics": "Mede thi kain laavjo mari haathu vaalida\nPann vehlera tame aavjo mara valalm vhalida\nTame vhaal no dariyo ame tarsya vhalida\nKe vehlera tame aavjo...\n\nHo tera piya itna haseen kaise\nMujhse yeh puchhe aaina\nMera hi hai kya yeh naseeb\nAb bhi yaqeen aaye na\n\nMain teri nazar utaarun\nTujhe jag se sambhaalun\nKoi aanch tujhpe aaye na..\n\nTujhe jitna main pyaar karun yaara\nKisi aur se na kiya... kiya...\nO.. tujhe toot ke jo maine nahi chaaha\nToh pyaar hi kya kiya.. ho...\n\nTujhe jitna main pyaar karun yaara\nKisi aur se na kiya.. ho..\n\nMede thi kain laavjo mari haathu vaalida\nPann vehlera tame aavjo mara valalm vhalida\nTame vhaal no dariyo ame tarsya vhalida\nKe vehlera tame aavjo...\n\nHo.. resham ke dhaage\nPedon pe baandhe\nMaine kahaan the kabhi\nPar aasmaan mein apne sitaare\nJud hi gaye phir bhi\n\nMain teri nazar utaaru\nTujhe jag se sambhaalu\nKoi aanch tujhpe aaye na..\n\nTujhe jitna main pyaar karun yaara\nKisi aur se na kiya.. kiya...\nO.. tujhe toot ke jo maine nahi chaaha\nToh pyaar hi kya kiya.. ho...\n\nMede thi kain laavjo mari haathu vaalida\nPann vehlera tame aavjo mara valalm vhalida\nHoon prem no maado, taaro udta pankhida\nKe vehlera tame aavjo..."
+               }
+               ]
+             
+           }
+        ]
       }
     ]
   }
