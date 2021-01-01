@@ -799,6 +799,26 @@
             ]
           }
         ]
+      },
+      {
+        "name": "Korean",
+        "albums": [
+         {
+             "name": "While You Were Sleeping",
+             "image": "https://en.baaghitv.com/wp-content/uploads/2019/07/434.jpg",
+             "songs":[
+               {
+                 "name": "I Love You Boy",
+                 "image": "https://en.baaghitv.com/wp-content/uploads/2019/07/434.jpg",
+                 "song-image": "https://th.bing.com/th/id/OIP.LCBWTEYXCPGijDSSlQbIrQHaFj?pid=Api&w=480&h=360&rs=1",
+                 "singer": "Bea Suzy",
+                 "music": "Sachin-Jigar",
+                 "lyricsby": "Priya Saraiya, Sachin Sanghvi",
+                 "lyrics": "geudael bogi wihae meon gireul geonneowassneyo\nhimdeun girin geol almyeonseodo geujeo georeossjyo\nI fly for you nungamado\nboiji anhdeon nae mame niga dagawa\n\nbecause I love you boy\nnae gyeoteuro dagawayo\nbecause I need you boy\nkkumeseodo geuriungeol\nRemember I love you boy\ndasin bol su eopsda haedo\nbecause I love you boy\nbecause I love you boy\nsaranghaeyo saranghaeyo\n\nneowa hamkkehan gieokdeuri barame nallyeo\njichin nae mame naeryeoanja nareul usge hae\nangae sogeul hemeideon\njeonhaji moshan nae mami nege dagaga\n\nbecause I love you boy\nnae gyeoteuro dagawayo\nbecause I need you boy\nkkumeseodo geuriungeol\n\nnae chagaun mameul umjigyeossdeon\ngaseumeul ulge haessdeon\ngeu sarami geudaengeoryo\njeongmal ijeuryeogo haedo jiwonaeryeohaedo\nnae sarangeun geudaejyo\n(I fly for you)\n\nbecause I love you boy\nnae gyeoteuro dagawayo\nbecause I need you boy\nkkumeseodo geuriungeol\nRemember I love you boy\ndasin bol su eopsda haedo\nbecause I love you boy\nbecause I love you boy\nsaranghaeyo saranghaeyo"
+               }
+              ]
+           }
+        ]
       }
     ]
   }
