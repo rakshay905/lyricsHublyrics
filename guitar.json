@@ -1,5 +1,86 @@
 {
-	"data": {
-		
-	}
+    "data": {
+        "categories": [
+           {
+               "Single string": [
+                   {
+                       "language": [
+                        {
+                            "name": "Hindi",
+                            "albums": [
+                                {
+                                    "name": "Kedarnath",
+                                    "image": "https://t1.daumcdn.net/cfile/tistory/990BB84F5C136DB82E",
+                                    "songs": [
+                                        {
+                                            "name": "NAMO NAMO",
+                                            "image": "https://t1.daumcdn.net/cfile/tistory/990BB84F5C136DB82E",
+                                            "tabs-chords": "Jai Ho Jai Ho Shankara\n(Bholenath Shankara)\nAadi Dev Shankara\n(Hey Shivay Shankara)\n\nTere Jaap Ke Bina\n(Bholenath Shankara)\nChale Ye Saans Kis Tarah\n(Hey Shivay Shankara)\nMera Karm Tu Hi Jaane\nKya Bura Hai Kya Bhalaa\nTere Raaste Pe Main Toh\nAankh Moond Ke Chalaa\n\nTere Naam Ki Jot Ne\nSaara Har Liya Tamas Mera\n(Tamas: Darkness)\n\nNamo Namo Ji Shankara\nBholenath Shankara\nHey Triloknath Shambhu\nHey Shivay Shankara\n\nNamo Namo Ji Shankara\nBholenath Shankara\nRudradev Hey Maheshvara\n\nSrishti Ke Janam Se Bhi\n(O O..)\nPehle Tera Vaas Tha\n(O O..)\nYe Jag Rahe Ya Naa Rahe\n(O O..)\nRahegi Teri Aastha\n(O O..)\n\nKya Samay.. Kya Pralay\nDono Mein Teri Mahaanta\nMahaanta.. Mahaanta..\n\nSeepiyon Ki Ontt Main\n(Bholenath Shankara)\nMotiyan Ho Jis Tarah\n(Hey Shivay Shankara)\nMere Mann Mein Shankara\n(Bholenath Shankara)\nTu Basa Hai Uss Tarah\n(Hey Shivay Shankara)\nMujhe Bharam Tha Jo Hai Mera\nTha Nahin Kabhi Mera\n\nArth Kya Nirarth Kya\nJo Bhi Hai Sabhi Tera\n\nTere Saamne Hai Jhuka\nMere Sar Pe Haath Rakh Tera\n\nNamo Namo Ji Shankara\nBholenath Shankara\nHey Triloknath Shambhu\nHey Shivay Shankara\nNamo Namo Ji Shankara\nBholenath Shankara\nRudradev Hey Maheshvara\n\nChandrama Lalaat Pe\nBhasm Hai Bhujaaon Mein\nVastra Baagh Chhaal Ka\nHai Khadau Paanv Mein\n\nPyaas Kya Aur Tujhe\nGanga Hai Teri Jataaon Mein\nJataaon Mein\nJataaon Mein\nJataaon Mein\n\nDoosron Ke Waaste\n(Bholenath Shankara)\nTu Sadaive Hai Jiya\n(Hey Shivay Shankara)\nMaanga Kuch Kabhi Nahi\n(Bholenath Shankara)\nTune Sirf Hai Diya\n(Hey Shivay Shankara)\n\nSamudra Manthan Ka Tha Samay Jo Aa Pada\nDwand Dono Lok Me Vishamrit Pe Tha Chida\nAmrit Se Bhi Main Baant Ke\nPyaala Vish Ka Tune Khud Piya\n\nNamo Namo Ji Shankara\nBholenath Shankara\nHey Triloknath Shambhu\nHey Shivay Shankara\n\nNamo Namo Ji Shankara\nBholenath Shankara\nRudradev Hey Maheshvara\nRudradev Hey Maheshvara\nRudradev Hey Maheshvara"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "English",
+                            "albums": [
+                                {
+                                    "name": "Let me love you",
+                                    "image": "https://t1.daumcdn.net/cfile/tistory/990BB84F5C136DB82E",
+                                    "songs": [
+                                        {
+                                            "name": "Let me love you",
+                                            "image": "https://t1.daumcdn.net/cfile/tistory/990BB84F5C136DB82E",
+                                            "tabs-chords": "Jai Ho Jai Ho Shankara\n(Bholenath Shankara)\nAadi Dev Shankara\n(Hey Shivay Shankara)\n\nTere Jaap Ke Bina\n(Bholenath Shankara)\nChale Ye Saans Kis Tarah\n(Hey Shivay Shankara)\nMera Karm Tu Hi Jaane\nKya Bura Hai Kya Bhalaa\nTere Raaste Pe Main Toh\nAankh Moond Ke Chalaa\n\nTere Naam Ki Jot Ne\nSaara Har Liya Tamas Mera\n(Tamas: Darkness)\n\nNamo Namo Ji Shankara\nBholenath Shankara\nHey Triloknath Shambhu\nHey Shivay Shankara\n\nNamo Namo Ji Shankara\nBholenath Shankara\nRudradev Hey Maheshvara\n\nSrishti Ke Janam Se Bhi\n(O O..)\nPehle Tera Vaas Tha\n(O O..)\nYe Jag Rahe Ya Naa Rahe\n(O O..)\nRahegi Teri Aastha\n(O O..)\n\nKya Samay.. Kya Pralay\nDono Mein Teri Mahaanta\nMahaanta.. Mahaanta..\n\nSeepiyon Ki Ontt Main\n(Bholenath Shankara)\nMotiyan Ho Jis Tarah\n(Hey Shivay Shankara)\nMere Mann Mein Shankara\n(Bholenath Shankara)\nTu Basa Hai Uss Tarah\n(Hey Shivay Shankara)\nMujhe Bharam Tha Jo Hai Mera\nTha Nahin Kabhi Mera\n\nArth Kya Nirarth Kya\nJo Bhi Hai Sabhi Tera\n\nTere Saamne Hai Jhuka\nMere Sar Pe Haath Rakh Tera\n\nNamo Namo Ji Shankara\nBholenath Shankara\nHey Triloknath Shambhu\nHey Shivay Shankara\nNamo Namo Ji Shankara\nBholenath Shankara\nRudradev Hey Maheshvara\n\nChandrama Lalaat Pe\nBhasm Hai Bhujaaon Mein\nVastra Baagh Chhaal Ka\nHai Khadau Paanv Mein\n\nPyaas Kya Aur Tujhe\nGanga Hai Teri Jataaon Mein\nJataaon Mein\nJataaon Mein\nJataaon Mein\n\nDoosron Ke Waaste\n(Bholenath Shankara)\nTu Sadaive Hai Jiya\n(Hey Shivay Shankara)\nMaanga Kuch Kabhi Nahi\n(Bholenath Shankara)\nTune Sirf Hai Diya\n(Hey Shivay Shankara)\n\nSamudra Manthan Ka Tha Samay Jo Aa Pada\nDwand Dono Lok Me Vishamrit Pe Tha Chida\nAmrit Se Bhi Main Baant Ke\nPyaala Vish Ka Tune Khud Piya\n\nNamo Namo Ji Shankara\nBholenath Shankara\nHey Triloknath Shambhu\nHey Shivay Shankara\n\nNamo Namo Ji Shankara\nBholenath Shankara\nRudradev Hey Maheshvara\nRudradev Hey Maheshvara\nRudradev Hey Maheshvara"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                       ]
+                   }
+               ]
+           },
+           {
+            "Multiple string": [
+                {
+                    "language": [
+                     {
+                         "name": "Hindi",
+                         "albums": [
+                             {
+                                 "name": "Kedarnath",
+                                 "image": "https://t1.daumcdn.net/cfile/tistory/990BB84F5C136DB82E",
+                                 "songs": [
+                                     {
+                                         "name": "NAMO NAMO",
+                                         "image": "https://t1.daumcdn.net/cfile/tistory/990BB84F5C136DB82E",
+                                         "tabs-chords": "Jai Ho Jai Ho Shankara\n(Bholenath Shankara)\nAadi Dev Shankara\n(Hey Shivay Shankara)\n\nTere Jaap Ke Bina\n(Bholenath Shankara)\nChale Ye Saans Kis Tarah\n(Hey Shivay Shankara)\nMera Karm Tu Hi Jaane\nKya Bura Hai Kya Bhalaa\nTere Raaste Pe Main Toh\nAankh Moond Ke Chalaa\n\nTere Naam Ki Jot Ne\nSaara Har Liya Tamas Mera\n(Tamas: Darkness)\n\nNamo Namo Ji Shankara\nBholenath Shankara\nHey Triloknath Shambhu\nHey Shivay Shankara\n\nNamo Namo Ji Shankara\nBholenath Shankara\nRudradev Hey Maheshvara\n\nSrishti Ke Janam Se Bhi\n(O O..)\nPehle Tera Vaas Tha\n(O O..)\nYe Jag Rahe Ya Naa Rahe\n(O O..)\nRahegi Teri Aastha\n(O O..)\n\nKya Samay.. Kya Pralay\nDono Mein Teri Mahaanta\nMahaanta.. Mahaanta..\n\nSeepiyon Ki Ontt Main\n(Bholenath Shankara)\nMotiyan Ho Jis Tarah\n(Hey Shivay Shankara)\nMere Mann Mein Shankara\n(Bholenath Shankara)\nTu Basa Hai Uss Tarah\n(Hey Shivay Shankara)\nMujhe Bharam Tha Jo Hai Mera\nTha Nahin Kabhi Mera\n\nArth Kya Nirarth Kya\nJo Bhi Hai Sabhi Tera\n\nTere Saamne Hai Jhuka\nMere Sar Pe Haath Rakh Tera\n\nNamo Namo Ji Shankara\nBholenath Shankara\nHey Triloknath Shambhu\nHey Shivay Shankara\nNamo Namo Ji Shankara\nBholenath Shankara\nRudradev Hey Maheshvara\n\nChandrama Lalaat Pe\nBhasm Hai Bhujaaon Mein\nVastra Baagh Chhaal Ka\nHai Khadau Paanv Mein\n\nPyaas Kya Aur Tujhe\nGanga Hai Teri Jataaon Mein\nJataaon Mein\nJataaon Mein\nJataaon Mein\n\nDoosron Ke Waaste\n(Bholenath Shankara)\nTu Sadaive Hai Jiya\n(Hey Shivay Shankara)\nMaanga Kuch Kabhi Nahi\n(Bholenath Shankara)\nTune Sirf Hai Diya\n(Hey Shivay Shankara)\n\nSamudra Manthan Ka Tha Samay Jo Aa Pada\nDwand Dono Lok Me Vishamrit Pe Tha Chida\nAmrit Se Bhi Main Baant Ke\nPyaala Vish Ka Tune Khud Piya\n\nNamo Namo Ji Shankara\nBholenath Shankara\nHey Triloknath Shambhu\nHey Shivay Shankara\n\nNamo Namo Ji Shankara\nBholenath Shankara\nRudradev Hey Maheshvara\nRudradev Hey Maheshvara\nRudradev Hey Maheshvara"
+                                     }
+                                 ]
+                             }
+                         ]
+                     },
+                     {
+                         "name": "English",
+                         "albums": [
+                             {
+                                 "name": "Let me love you",
+                                 "image": "https://t1.daumcdn.net/cfile/tistory/990BB84F5C136DB82E",
+                                 "songs": [
+                                     {
+                                         "name": "Let me love you",
+                                         "image": "https://t1.daumcdn.net/cfile/tistory/990BB84F5C136DB82E",
+                                         "tabs-chords": "Jai Ho Jai Ho Shankara\n(Bholenath Shankara)\nAadi Dev Shankara\n(Hey Shivay Shankara)\n\nTere Jaap Ke Bina\n(Bholenath Shankara)\nChale Ye Saans Kis Tarah\n(Hey Shivay Shankara)\nMera Karm Tu Hi Jaane\nKya Bura Hai Kya Bhalaa\nTere Raaste Pe Main Toh\nAankh Moond Ke Chalaa\n\nTere Naam Ki Jot Ne\nSaara Har Liya Tamas Mera\n(Tamas: Darkness)\n\nNamo Namo Ji Shankara\nBholenath Shankara\nHey Triloknath Shambhu\nHey Shivay Shankara\n\nNamo Namo Ji Shankara\nBholenath Shankara\nRudradev Hey Maheshvara\n\nSrishti Ke Janam Se Bhi\n(O O..)\nPehle Tera Vaas Tha\n(O O..)\nYe Jag Rahe Ya Naa Rahe\n(O O..)\nRahegi Teri Aastha\n(O O..)\n\nKya Samay.. Kya Pralay\nDono Mein Teri Mahaanta\nMahaanta.. Mahaanta..\n\nSeepiyon Ki Ontt Main\n(Bholenath Shankara)\nMotiyan Ho Jis Tarah\n(Hey Shivay Shankara)\nMere Mann Mein Shankara\n(Bholenath Shankara)\nTu Basa Hai Uss Tarah\n(Hey Shivay Shankara)\nMujhe Bharam Tha Jo Hai Mera\nTha Nahin Kabhi Mera\n\nArth Kya Nirarth Kya\nJo Bhi Hai Sabhi Tera\n\nTere Saamne Hai Jhuka\nMere Sar Pe Haath Rakh Tera\n\nNamo Namo Ji Shankara\nBholenath Shankara\nHey Triloknath Shambhu\nHey Shivay Shankara\nNamo Namo Ji Shankara\nBholenath Shankara\nRudradev Hey Maheshvara\n\nChandrama Lalaat Pe\nBhasm Hai Bhujaaon Mein\nVastra Baagh Chhaal Ka\nHai Khadau Paanv Mein\n\nPyaas Kya Aur Tujhe\nGanga Hai Teri Jataaon Mein\nJataaon Mein\nJataaon Mein\nJataaon Mein\n\nDoosron Ke Waaste\n(Bholenath Shankara)\nTu Sadaive Hai Jiya\n(Hey Shivay Shankara)\nMaanga Kuch Kabhi Nahi\n(Bholenath Shankara)\nTune Sirf Hai Diya\n(Hey Shivay Shankara)\n\nSamudra Manthan Ka Tha Samay Jo Aa Pada\nDwand Dono Lok Me Vishamrit Pe Tha Chida\nAmrit Se Bhi Main Baant Ke\nPyaala Vish Ka Tune Khud Piya\n\nNamo Namo Ji Shankara\nBholenath Shankara\nHey Triloknath Shambhu\nHey Shivay Shankara\n\nNamo Namo Ji Shankara\nBholenath Shankara\nRudradev Hey Maheshvara\nRudradev Hey Maheshvara\nRudradev Hey Maheshvara"
+                                     }
+                                 ]
+                             }
+                         ]
+                     }
+                    ]
+                }
+            ]
+        }
+        ]
+    }
 }
