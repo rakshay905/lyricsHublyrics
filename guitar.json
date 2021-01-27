@@ -2,7 +2,8 @@
     "data": {
         "categories": [
            {
-               "Single string": [
+               "name": "Single string",
+               "list": [
                    {
                        "language": [
                         {
@@ -42,7 +43,8 @@
                ]
            },
            {
-            "Multiple string": [
+            "name": "Multiple string",
+            "list": [
                 {
                     "language": [
                      {
