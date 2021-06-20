@@ -5,6 +5,29 @@
         "name": "Hindi",
         "albums": [
           {
+            "name": "Half Girlfriend",
+            "image": "https://th.bing.com/th/id/OIP.9KYVTlSdN7Pr2WwvtzV4FwHaEK?pid=ImgDet&rs=1",
+            "songs":[
+              {
+                "name": "Thodi Der",
+                "image": "https://th.bing.com/th/id/OIP.9KYVTlSdN7Pr2WwvtzV4FwHaEK?pid=ImgDet&rs=1",
+                "song-image": "https://th.bing.com/th/id/OIP.HXY600wX5lp47iKoNltSowHaEZ?pid=ImgDet&rs=1",
+                "singer": "Farhan Saeed, Shreya Ghoshal",
+                "music": "Tanishk Bagchi",
+                "lyricsby": "Kumaar",
+                "lyrics": "Haann…\nHaann..\n\nDil charkey ki ek too dhori\nDil charkey ki ek too dhori\nSufi iski rang\nHaye…\n\nIsme joh tera kawab piroya\nIsme joh tera kawab piroya\nNeende baani patang\n\nDil barta nahi aankhe raajti nahi\nDil barta nahi ankhey raajti nahi\nChaiye kitna bhi dekhti jaun\nWakt jaye mai rok na paun\n\nTu thori dar hor tehar ja sohneya\nTu thori dar hor tehar ja\nTu tori dair hor tehar ja zaalima\nTu tori dair hor tehar ja\n\nHaann..\nHaann..\n\nHaye,\nDil terey bin ab jeena paaye\nDil terey bin ab jeena paaye\nSans milli ti raat\n\nIshq karengi tere hothon se\nIshq karengi tere hothon se\nBas ek teri baath\n\nTeri doori naa sahun dur kuth se rahun\nTeri duri naa sahun dur kud se rahun\nTerey main hi reh jaoon\nTu hi samaj jaa jo mein chahoon\n\nTu thori dair hor tehar ja soneya\nTu tori dair hor tehar ja\nTu thori dair hor tehar ja zalima\nTu tori dar hor tehar ja"
+              },
+              {
+                "name": "Main Phir Bhi Tumko Chahunga",
+                "song-image": "https://th.bing.com/th/id/OIP.Ih6doNLENksznfE1uxtAigHaEK?pid=ImgDet&rs=1",
+                "singer": "Arijit Singh, Shashaa Tirupati",
+                "music": "Mithoon",
+                "lyricsby": "Manoj Muntashir",
+                "lyrics": "Tum mere ho is pal mere ho\nKal shaayad ye aalam na rahey\nKuch aissa ho tum tum na raho\nKuch aissa ho hum hum na rahey\nYe raasthe alag ho jaye\nChaltey chaltey hum ko jaye\n\nMain phir bhi tumko chahunga\nMain phir bhi tumko chahunga\nMain phir bhi tumko chaahunga\nMain phir bhi tumko chaahunga\n\nIss chaahat mein mar jaunga\nMain phir bi tumko chahunga\nMeri jaan mein har kamoshi hai\nTera pyar ke nagme gaoonga\nmmm…\n\nMai phir bi tumko chahunga\nMai phir bi tumko chahunga\nIz chahat mein mar jaunga\nMain phir bi tumko chahunga\n\nAise zaruri ho mujko tum\nJaisey hawa hai sanson ko\nAisse talashun main tumko\nJaisse ke pair zameeno ko\n\nHasna ya rona ho muje\nPagal sa doondun main tumhe\nKal mujse mohabat ho na ho\nKal mujko ijazar ho na ho\nTootey dil ke tukdey lekar\nTere dar pe hi reh jaoonga\nmmm…\n\nMain phir bhi tumko chahunga\nMain phir bhi tumko chahunga\nIz chahat mein mar jaunga\nMain fir bhi tumko chahunga\n\nTum yun miley ho jab se muje\nAur suneri main lagthi hoon\nSirf labon se nahi ab toh\nPoorey badan se hasthi hoon\n\nMere din raath saloney se\nSab hai tere hi hone se\nYe saath hamesha hoga nahi\nTum kahi main aur kahin\n\nLekin jab yad karoge tum\nMain bankey hawa aa jaunga\noh…\n\nMai phir bhi tumko chahoonga\nMai phir bhi tumko chahoonga\nIss chahat mein marr jaoonga\nMai phir bhi tumko chahoonga\n\nMain phir bhi tumko chahunga\nMain phir bhi tumko chaahunga (2 times)"
+              }
+             ]
+          },
+          {
             "name" : "Lut Gaye Hum Toh Pehli Mulaqaat Mein",
             "image" : "https://th.bing.com/th/id/R1f650e9ef0b348a694b93e09edb85d36?rik=KlQLEXBuUT0STw&riu=http%3a%2f%2flyricchord.com%2fwp-content%2fuploads%2f2021%2f03%2flut-gaye.jpg&ehk=nhHEJUkmxaw6B8yP6cUQhUMvUIwRQh0B9qPpIoe5TkE%3d&risl=&pid=ImgRaw",
             "songs" : [
