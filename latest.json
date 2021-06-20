@@ -5,6 +5,21 @@
         "name": "Hindi",
         "albums": [
           {
+            "name": "Bahubali 2",
+            "image": "https://th.bing.com/th/id/OIP.NrSNt26r90ZhUdwHs8xd9wHaEK?pid=ImgDet&rs=1",
+            "songs":[
+              {
+                "name": "Jay Jaykara",
+                "image": "https://th.bing.com/th/id/OIP.NrSNt26r90ZhUdwHs8xd9wHaEK?pid=ImgDet&rs=1",
+                "song-image": "https://th.bing.com/th/id/OIP.bgB-cAk7jj4kdzvwjxxaOQHaDm?pid=ImgDet&rs=1",
+                "singer": "Kailash Kher",
+                "music": "M. M. Keeravani",
+                "lyricsby": "Manoj Muntashir",
+                "lyrics": "Kya kabhi ambar se\nSurya bichhadta hai\nKya kabhi bin baathi\nDeepak jaltha hai\n\nKya kabi ambar se\nSurya bichhadta hai\nKya kabhi bin baathi\nDeepak jaltha hai\n\nKaissi hai ye anhoni\nHar aank huyi nam\nChod gaya jo tu\nKaise jiyenge hum\n\nTuhi kinara, tuhi sahara\nTu jag sara, tuhi humara\nSuraj tuhi taara\n\nJai jaikara, jai jaikara\nSwami dena saath humaara\n(jay jaykara, jay jaykara\nSwami dena saath humaara)\n\nJahan jahan tere paaon pade\nWo dharti ambar ho jaye\n\nJaaney ye kaisi maya\nMaya hai teri\n\nTu nirbal chaabal hai\nSwami rakwala hum sab ka\nUsko kya darr hai\nJispe chaya hai teri\n\nKan kan mein hai khush haali\nJoomey hai daali daali\nHum pyason pe jo rim jim barsey\nHai baadal se\nTuhi woh amrit ki daara\n\nJai jaikara, jai jaikara\nSwami dena saath humaara\n(jay jaykara, jay jaykara\nSwami dena saath humaara)"
+              }
+             ]
+          },
+          {
             "name": "Half Girlfriend",
             "image": "https://th.bing.com/th/id/OIP.9KYVTlSdN7Pr2WwvtzV4FwHaEK?pid=ImgDet&rs=1",
             "songs":[
