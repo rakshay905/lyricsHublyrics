@@ -5,6 +5,21 @@
         "name": "Hindi",
         "albums": [
           {
+            "name": "Zero 2018",
+            "image": "https://th.bing.com/th/id/OIP.7QcM50W51eqQLQBRAwdQ_gHaEo?pid=ImgDet&rs=1",
+            "songs":[
+              {
+                "name": "MERE NAAM TU",
+                "image": "https://th.bing.com/th/id/OIP.7QcM50W51eqQLQBRAwdQ_gHaEo?pid=ImgDet&rs=1",
+                "song-image": "https://c.saavncdn.com/050/Mere-Naam-Tu-From-Zero-Hindi-2018-20181123141057-500x500.jpg",
+                "singer": "Abhay Jodhpurkar",
+                "music": "Ajay-Atul",
+                "lyricsby": "NA",
+                "lyrics": "Woh rang bhi kya rang hai, jo milta na tere hoth ke rang se hubahu\nWoh khushboo kya khushboo, thehre na jo teri saanwri zulf ke rubaru\n\nTere aage ye duniya hai pheeki si\nMere bin tu na hogi kisi ki bhi,\nAb ye zaahir sareaam hai, elaan hai\n\nJab tak jahaan mein subah shaam haim, tab tak mere naam tu\nJab tak jahaan mein mera naam hai, tab tak mere naam tu,\n\nUljhan bhi hoon teri, uljhan ka hal bhi hoon main,\nThoda sa ziddi hoon, thoda pagal bhi hoon main\n\nBarkha bijli baadal jhoothay, jhoothi phoolon ki saugatein\nSachi tu hai sacha main hoon, sachi apne dil ki baatein,\n\nDastkhat haathon se haathon pe kar de tu,\nNaa kar aankhon pe palkon ke parde tu,\nKya ye itna bada kaam hai, ailaan hai\n\nJab tak jahaan mein subah shaam hai, tab tak mere naam tu\nJab tak jahaan mein mera naam hai, tab tak mere naam tu\n\nMere hi ghere mein ghoomegi har pal tu aise,\nSooraj ke ghere mein rehti hai dharti ye jaise,\nPaayegi tu khudko na mujhse judaa,\nTu hai mera aadha sa hissa sadaa\n\nTukde kar chaahe khaabon ke tu mere\nTootenge bhi tu rehne hain woh tere,\nTujhko bhi toh ye ilhaam hai, ailaan hai,"
+              }
+             ]
+          },
+          {
             "name": "Life in a Metro",
             "image": "https://th.bing.com/th/id/R07dd24f14269df46253c05277d5800cb?rik=0K4cPygt6wwC9Q&riu=http%3a%2f%2fwww.impawards.com%2fintl%2findia%2f2007%2fposters%2flife_in_a_metro_ver9.jpg&ehk=Sy58IFUScaBty5WmtxWt7vHumxk1HwHSd4POgT4K5Lo%3d&risl=&pid=ImgRaw",
             "songs":[
