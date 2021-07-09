@@ -6,7 +6,15 @@
         "songs": [
           {
             "name": "Zero 2018",
-            "tabs": "dasdas dasdsadsa dsadsadsa dasdsadsa dasdsadas dasdsa"
+            "image": "https://th.bing.com/th/id/OIP.htfbL7jdyaes5SzNDKVZfgHaLH?w=181&h=272&c=7&o=5&pid=1.7"
+            "tabs": "dasdas dasdsadsa dsadsadsa dasdsadsa dasdsadas dasdsa",
+            "chords": "chords 13 323232 32323 32  -------------"
+          },
+          {
+            "name": "Hero 2019",
+            "image": "https://th.bing.com/th/id/OIP.fZdIwv-AHAA9k4jHfL3Q2gHaLx?pid=ImgDet&rs=1"
+            "tabs": "dasdas dasdsadsa dsadsadsa dasdsadsa dasdsadas dasdsa",
+            "chords": "chords 13 323232 32323 32  -------------"
           }
         ]
       },
@@ -15,7 +23,9 @@
         "songs": [
           {
             "name": "Zero 2018",
-            "tabs": "dasdas dasdsadsa dsadsadsa dasdsadsa dasdsadas dasdsa"
+            "image": "https://th.bing.com/th/id/OIP.fZdIwv-AHAA9k4jHfL3Q2gHaLx?pid=ImgDet&rs=1"
+            "tabs": "dasdas dasdsadsa dsadsadsa dasdsadsa dasdsadas dasdsa",
+            "chords": "chords 13 323232 32323 32  -------------"
           }
         ]
       }
