@@ -876,6 +876,21 @@
         "name": "English",
         "albums": [
           {
+            "name": "Señorita",
+            "image": "https://th.bing.com/th/id/OIP.ro7-m2Ivgnrgd-YHfIPWfAHaD2?pid=ImgDet&rs=1",
+            "songs":[
+              {
+                "name": "Señorita",
+                "image": "https://th.bing.com/th/id/OIP.ro7-m2Ivgnrgd-YHfIPWfAHaD2?pid=ImgDet&rs=1",
+                "song-image": "https://i2.wp.com/www.vinilonegro.com/wp-content/uploads/2019/08/Shawn-Mendes-Camila-Cabello-7-e1564658738551.jpg?fit=600%2C400&ssl=1",
+                "singer": "Shawn Mendes, Camila Cabello",
+                "music": "Cashmere Cat, benny blanco, watt",
+                "lyricsby": "Cashmere Cat, Jack Patterson, Charli XCX, benny blanco, watt, Ali Tamposi, Camila Cabello",
+                "lyrics": "I love it when you call me Señorita\nI wish I could pretend I didn't need ya\nBut every touch is ooh-la-la-la\nIt's true la-la-la\nOoh I should be running\nOoh you keep me coming\nFor ya\n\nLand in Miami\nThe air was hot from summer rain\nSweat dripping off me\nBefore I even knew her name la-la-la\nIt felt like ooh-la-la-la\nYeah, no\n\nSapphire moonlight\nWe danced for hours in the sand\nTequila Sunrise\nHer body fit right in my hands, la-la-la\nIt felt like ooh-la-la-la\nYeah\n\nI love it when you call me Señorita\nI wish I could pretend I didn't need ya\nBut every touch is ooh-la-la-la\nIt's true la-la-la\nOoh I should be running\nOoh you know I love it\n\nWhen you call me Señorita\nI wish it wasn't so damn hard to leave ya\nBut every touch is ooh-la-la-la\nIt's true la-la-la\nOoh I should be running\nOoh you keep me coming\nFor ya\n\nLocked in the hotel\nThere's just some things that never change\nYou say, \"We're just friends.\nBut friends don't know the way you taste-la-la-la\n'Cause you know it's been a long time comin'\nDon't you let me fall, oh\n\nOh, when your lips undress me\nHooked on your tongue\nOoh, love, your kiss is deadly\nDon't stop\n\nI love it when you call me Señorita\nI wish I could pretend I didn't need ya\nBut every touch is ooh-la-la-la\nIt's true la-la-la\nOoh I should be running\nOoh you know I love it\n\nWhen you call me Señorita\nI wish it wasn't so damn hard to leave ya\nBut every touch is ooh-la-la-la\nIt's true la-la-la\nOoh I should be running\nOoh you keep me coming\nFor ya\n\nAll along I'll be coming for ya (for ya)\nAnd I hope it meant something to ya\nCall my name I'll be comin' for ya (comin' for ya)\nComin' for ya (comin' for ya)\n\nFor ya, for ya (oh, she loves it when I call her), for ya\nOoh I should be running\nOoh you keep me coming\nFor ya"
+              }
+            ]
+          },
+          {
             "name": "Justice (Justin Bieber)",
             "image": "https://th.bing.com/th/id/Rbc32ce61b3ba6ca4df09228a70bff616?rik=HSuKQBifktxP0w&riu=http%3a%2f%2floyolaphoenix.com%2fwp-content%2fuploads%2f2021%2f03%2fJustin-Bieber-Peaches-ft.-Daniel-Caesar-Giveon.jpeg&ehk=WRbvMiOvM7Rbug8oIKSvaX746Z0DCorYG785SAEeVKc%3d&risl=&pid=ImgRaw",
             "songs":[
