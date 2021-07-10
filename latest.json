@@ -796,6 +796,15 @@
             "image": "https://i.ytimg.com/vi/cemHzxPTNTw/maxresdefault.jpg",
             "songs":[
               {
+                "name": "Yeh Jo Chilman Hai Dusman Hai Hamari (Mehboob Ki Menhdi)",
+                "image": "https://th.bing.com/th/id/R.c908a297e14abd0afc09c6c127167b6d?rik=BAlZt3iiTBXCxA&riu=http%3a%2f%2fimages.catchnews.com%2fupload%2f2020%2f12%2f29%2frajesh_khanna_207649_730x419-m.jpg&ehk=cJrnJsH%2fX5PzM1Ta9%2bTnJRy7WiJz905N8NCGeH18cFM%3d&risl=&pid=ImgRaw",
+                "song-image": "https://i.ytimg.com/vi/pwILB2H6aO0/maxresdefault.jpg",
+                "singer": "Mohammad Rafi",
+                "music": "Laxmikant Pyarelal",
+                "lyricsby": "NA",
+                "lyrics": "Ye Jo Chilaman Hai Dushman Hai Hamari – 2\nBadi Sharmili, Badi Sharmili Dulhan Hai Hamari\n\nDusra Aur Koi Yahan Kyu Rahe – 2\nHusn Aur Ishq Ke Darmiyan Kyu Rahe\nDarmiyan Kyu Rahe\nYe Yahan Kyu Rahe\nHaan Ji Haan Kyu Rahe\nYe Jo Aanchal Hai Shikwa Hai Hamara\nKyu Chupata Hai Chehra Ye Tumhara\nYe Jo …\n\nKaise Diidar-e-aashiq Tumhara Kare\nRukhe Roshan Ka Kaise Nazara Kare\nHaan Nazara Kare\nHo Ishara Kare\nHaan Pukaaa Kare\nYe Jo Gesu Hain Baadal Hain Qasam Se\nKaise Bikhare Hai Gaalon Pe Sanam Ke\nYe Jo …\n\nRukh Se Parada Zara Jo Sarakane Laga\nUf Ye Kambakht Dil Kyu Machalane Laga\nKyu Machalane Laga – 2\nHaan Tadapane Laga"
+              },
+              {
                 "name": "Mujhe Teri Mohabbat Ka Sahara Mil Gaya Hota (Aap Aye Bahaar Ayee)",
                 "image": "https://i.ytimg.com/vi/cemHzxPTNTw/maxresdefault.jpg",
                 "song-image": "https://i.pinimg.com/originals/ca/11/b9/ca11b92d4f70d7a9fb1630ba1fea4e34.jpg",
@@ -848,6 +857,21 @@
           }
         ]
       },
+      {
+            "name": "Best Of Rajesh Khanna",
+            "image": "https://th.bing.com/th/id/R.c908a297e14abd0afc09c6c127167b6d?rik=BAlZt3iiTBXCxA&riu=http%3a%2f%2fimages.catchnews.com%2fupload%2f2020%2f12%2f29%2frajesh_khanna_207649_730x419-m.jpg&ehk=cJrnJsH%2fX5PzM1Ta9%2bTnJRy7WiJz905N8NCGeH18cFM%3d&risl=&pid=ImgRaw",
+            "songs":[
+              {
+                "name": "Yeh Jo Chilman Hai Dusman Hai Hamari (Mehboob Ki Menhdi)",
+                "image": "https://th.bing.com/th/id/R.c908a297e14abd0afc09c6c127167b6d?rik=BAlZt3iiTBXCxA&riu=http%3a%2f%2fimages.catchnews.com%2fupload%2f2020%2f12%2f29%2frajesh_khanna_207649_730x419-m.jpg&ehk=cJrnJsH%2fX5PzM1Ta9%2bTnJRy7WiJz905N8NCGeH18cFM%3d&risl=&pid=ImgRaw",
+                "song-image": "https://i.ytimg.com/vi/pwILB2H6aO0/maxresdefault.jpg",
+                "singer": "Mohammad Rafi",
+                "music": "Laxmikant Pyarelal",
+                "lyricsby": "NA",
+                "lyrics": "Ye Jo Chilaman Hai Dushman Hai Hamari – 2\nBadi Sharmili, Badi Sharmili Dulhan Hai Hamari\n\nDusra Aur Koi Yahan Kyu Rahe – 2\nHusn Aur Ishq Ke Darmiyan Kyu Rahe\nDarmiyan Kyu Rahe\nYe Yahan Kyu Rahe\nHaan Ji Haan Kyu Rahe\nYe Jo Aanchal Hai Shikwa Hai Hamara\nKyu Chupata Hai Chehra Ye Tumhara\nYe Jo …\n\nKaise Diidar-e-aashiq Tumhara Kare\nRukhe Roshan Ka Kaise Nazara Kare\nHaan Nazara Kare\nHo Ishara Kare\nHaan Pukaaa Kare\nYe Jo Gesu Hain Baadal Hain Qasam Se\nKaise Bikhare Hai Gaalon Pe Sanam Ke\nYe Jo …\n\nRukh Se Parada Zara Jo Sarakane Laga\nUf Ye Kambakht Dil Kyu Machalane Laga\nKyu Machalane Laga – 2\nHaan Tadapane Laga"
+              }
+            ]
+          }
       {
         "name": "English",
         "albums": [
