@@ -4,6 +4,22 @@
       {
         "name": "Hindi",
         "albums": [
+          
+        {
+          "name": "Satyameva Jayate (Paniyon Sa)",
+          "image": "https://images.firstpost.com/wp-content/uploads/2018/08/Satyamev-Jayate1.jpg",
+          "songs":[
+            {
+              "name": "Paniyon Sa",
+              "image": "https://images.firstpost.com/wp-content/uploads/2018/08/Satyamev-Jayate1.jpg",
+              "song-image": "https://img.youtube.com/vi/6PF1sHhlsZs/mqdefault.jpg",
+              "singer": "Atif Aslam, Tulsi Kumar",
+              "music": "Rochak Kohali",
+              "lyricsby": "Kumaar",
+              "lyrics": "Jo tere laagi preet mohe\nRooh baar baar tera naam le\nKyon rab se hai maangi yehi dua\nTu hathon ki lakeerein thaam le\n\nChup hain baatein\nDil kaise bayan mainkarun\nTu hi kehde woh jo\nBaat main keh na sakun\n\nKi sang tere paniyon sa\nPaaniyon sa, paniyon sa behta rahun\nTu sunti rahe main kahaniyan sa kehta rahun\n\nKi sang tere baadlon sa\nBaadlon sa, baadlon sa udta rahun\nTere ek ishare pe teri ore mudta rahun\n\nAaadhi zamin, aadha aasmaan tha\nAadhi manzilein, aadha raasta tha\nEk tere aane se mukammal hua sab yeh\nBin tere jahaan bhi bewajah tha\n\nTera dil banke main sath tere dhdakun\nKhud ko tujhse ab door na jaane doon\n\nKi sang tere paniyon sa\nPaaniyon sa, paniyon sa behta rahun\nTu sunti rahe main kahaniyan sa kehta rahun\n\nKi sang tere baadlon sa\nBaadlon sa, baadlon sa udta rahun\nTere ek ishare pe teri ore mudta rahun"
+            }
+          ]
+        },
         {
           "name": "Saaho",
           "image": "https://images.cinemaexpress.com/uploads/user/imagelibrary/2019/8/30/original/saaho_movie_review.jpg",
