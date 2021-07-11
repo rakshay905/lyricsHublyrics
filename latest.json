@@ -3,8 +3,22 @@
     "categories": [
       {
         "name": "Hindi",
-        "albums": [
-          
+        "albums": [  
+        {
+          "name": "Satyameva Jayate (Paniyon Sa)",
+          "image": "https://img.youtube.com/vi/XZhAJWI94hk/mqdefault.jpg",
+          "songs":[
+            {
+              "name": "Theher Ja",
+              "image": "https://img.youtube.com/vi/XZhAJWI94hk/mqdefault.jpg",
+              "song-image": "https://th.bing.com/th/id/OIP.AemdaVPK4SbcqePCzXfLywHaEK?pid=ImgDet&rs=1",
+              "singer": "Armaan Malik",
+              "music": "Abhshek Arora",
+              "lyricsby": "Abhiruchi Chand",
+              "lyrics": "Saal badla, Haal badla\nTere aane se\nZindagi ka khayal badla\nTere aane se\n\nZara zara sa\nDooba dooba rehta hoon\nZara zara sa\nDooba dooba tujh mein\nThehar jaa, hmm\nTu kisi bahaane se\nThehar jaa, hmm\nVo o Vo..\n\nKhwab kuch hai\nDil mein mere manmaane se\nKaash aisa ho aaye tu\nMere bulaane se\n\nZara zara sa\nDooba dooba rehta hoon\nZara zara sa\nDooba dooba tujh mein\nThehar jaa, hmm\nTu kisi bahaane se\nThehar jaa, hmm\nVo o Vo.."
+            }
+          ]
+        },
         {
           "name": "Satyameva Jayate (Paniyon Sa)",
           "image": "https://images.firstpost.com/wp-content/uploads/2018/08/Satyamev-Jayate1.jpg",
