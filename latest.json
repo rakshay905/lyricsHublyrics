@@ -3,7 +3,31 @@
     "categories": [
       {
         "name": "Hindi",
-        "albums": [  
+        "albums": [
+          
+        {
+          "name": "Baaghi 2",
+          "image": "https://th.bing.com/th/id/OIP.e9PhDBs1yCALXTcnJAG-cgHaEK?w=322&h=181&c=7&o=5&pid=1.7",
+          "songs":[
+            {
+              "name": "Lo Safar",
+              "image": "https://th.bing.com/th/id/OIP.e9PhDBs1yCALXTcnJAG-cgHaEK?w=322&h=181&c=7&o=5&pid=1.7",
+              "song-image": "https://img.youtube.com/vi/I7nbSzLCtEE/mqdefault.jpg",
+              "singer": "Jubin Nautiyal",
+              "music": "Mithoon",
+              "lyricsby": "Sayeed Quadri",
+              "lyrics": "Lo Safar Lyrics\nTumne jo hai maanga toh\nDil ye haazir ho gaya\nTumko mana manzil aur\nMusafir ho gaya\n\nLo safar shuru ho gaya\nHum safar tu ho gayaa..\n\nDil ki bechaini ko aaya\nAb kahin aaraam hai\nTum na ho to sochta dil\nTujko subaho shaam hai\nIss kadar tu har ik pal mein\nMere shamil ho gayaa..\n\nLo safar shuru ho gaya\nHumsafar tu ho gayaa..\n\nLo safar shuru ho gaya\nMera hum safar tu ho gaya.."
+            },
+            {
+              "name": "O Saathi",
+              "song-image": "https://img.youtube.com/vi/Qvd43XKY-f0/mqdefault.jpg",
+              "singer": "Atif Aslam",
+              "music": "Arko",
+              "lyricsby": "Arko",
+              "lyrics": "O saathi\nTere bina\nRaahi ko raah dikha na\nO saathi\nTere bina haa\nSaahil dhuaan dhuaan\n\nAankhein moonde to\nJaane kisey dhoondhe?\nKi soya jaaye na\nKi soya jaaye na\n\nKisey dhoondhe\nYe khwahishon ki boondein\nKi soya jaaye na\nKi soya jaaye na\nMaano nindiya piroya jaaye na\nMaano nindiya piroya jaaye na\n\nAllah mujhe dard ke kaabil bana diya\nToofan ko hi kashti ka saahil bana diya\nBechainiyan samet ke saare jahaan ki\nJab kuch na ban saka toh mera dil bana diya\n\nOo saathi\nTere bina\nRaahi ko raah dikha na\nOo saathi\nTere bina ha\nSahil duaan..\nduaan.."
+            }
+          ]
+        },
         {
           "name": "October (Tehar Ja)",
           "image": "https://img.youtube.com/vi/XZhAJWI94hk/mqdefault.jpg",
