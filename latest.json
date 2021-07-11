@@ -4,7 +4,21 @@
       {
         "name": "Hindi",
         "albums": [
-          
+        {
+          "name": "Pachtaoge",
+          "image": "https://img.youtube.com/vi/PVxc5mIHVuQ/mqdefault.jpg",
+          "songs":[
+            {
+              "name": "Jai Jai Shivshankar",
+              "image": "https://img.youtube.com/vi/PVxc5mIHVuQ/mqdefault.jpg",
+              "song-image": "https://th.bing.com/th/id/OIP.2sLawotNqabeB4FHjwx_MQHaEK?w=313&h=180&c=7&o=5&pid=1.7",
+              "singer": "Arijit Singh",
+              "music": "B Praak, Jaani",
+              "lyricsby": "Jaani",
+              "lyrics": "Ho mujhe chhod kar jo tum jaaoge\nJo tum jaaoge, Jo tum jaaoge\n\nHo mujhe chhod kar jo tum jaaoge\nBada pachtaoge, bada pachtaoge\nBada pachtaoge, bada pachtaoge\n\nSunniya sunniya galliyan de vich rol na deyin\nBoohe kisi hor layi tu khol na deyi\nSunniya sunniya galliyan de vich rol na deyin\nBoohe kisi hor layi tu khol na deyi\n\nHo shayar Jaani nu je rulaaoge\nBada pachtaoge, bada pachtaoge\n\nTere bina zindagi guzarenge kivein\nJaan jaan kihnu pukarenge kivein\nTere bina zindagi guzarenge kivein\nJaan jaan kihnu pukarenge kivein\n\nKaroge je karoge je daga karoge\nSadde waali maut tussi vi te maroge\nAllah vekhda, zulm kamaoge\nBada pachtaoge, bada pachtaoge\n\nHo mujhe chhod kar jo tum jaaoge\nBada pachtaoge, bada pachtaoge\n\nMujhse jo nazrein churane lage ho\nLagta hai koi aur gali jaane lage ho\nKhwab jo dekhe hum dono ne milke\nDheere dheere kyun dafnaane lage ho\n\nKar na tu hor barbaad chhad de\nRohndeya da lena swaad chhad de\nJe saanu pyaar layi ehna tarsaaoge\nBada Pachtaoge, Bada Pachtaoge\n\nHo mujhe chhod kar jo tum jaaoge\nBada pachtaoge, bada pachtaoge"
+            }
+          ]
+        },
         {
           "name": "WAR",
           "image": "https://th.bing.com/th/id/OIP.XlcV2SAGH_MWXorkQLV_VAHaEe?pid=ImgDet&rs=1",
