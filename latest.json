@@ -3,8 +3,22 @@
     "categories": [
       {
         "name": "Hindi",
-        "albums": [
-          
+        "albums": [  
+        {
+          "name": "Thoda Thoda Pyar Hua",
+          "image": "https://www.quirkybyte.com/wp-content/uploads/2021/04/7-19-1024x576.jpg",
+          "songs":[
+            {
+              "name": "Thoda Thoda Pyar Hua",
+              "image": "https://www.quirkybyte.com/wp-content/uploads/2021/04/7-19-1024x576.jpg",
+              "song-image": "https://lovemusiclyrics.com/wp-content/uploads/2021/02/thoda-thoda-pyaar.jpg",
+              "singer": "Stebin Ben",
+              "music": "Nilesh Ahuja",
+              "lyricsby": "Kumaar",
+              "lyrics": "Teri Nazar Ne Kya Ye Kardiya\nMuj Se Hi Mujhko Juda Krdiya\nTeri Nazar Ne Kya Ye Kardiya\nMuj Se Hi Mujhko Juda Krdiya\n\nMeh Rheta Hu Tere Pas Kahi\nAb Mujhko Mera Eshas Nahi\nDil Keheta Hai Kasam Se\n\nKe Thoda Thoda Pyar Hua Tumse\nKe Thoda Ek Rar Hua Tumse\nKe Thoda Thoda Pyar Hua Tumse\nKe Thoda Ek Rar Hua Tumse\nKe Zayda Bhi Hoga Tum Hi Se\nKe Thoda Thoda Pyar Hua Tumse\n\nMeri Ankhon Ki Dua He Ye Cherha Tera\nAb Dekhe Bin Tuje Na Gujara Mera\nMeri Ankhon Ki Dua He Ye Cherha Tera\nAb Dekhe Bin Tuje Na Gujara Mera\n\nMain Saan Bhi Lu Tujhe Chahe Bina\nAb Hoga Na Ye Humse\n\nKe Thoda Thoda Pyar Hua Tumse\nKe Thoda Ek Rar Hua Tumse\nKe Thoda Thoda Pyar Hua Tumse\nKe Thoda Ek Rar Hua Tumse\nKe Zayda Bhi Hoga Tum Hi Se\nKe Thoda Thoda Pyar Hua Tumse\nKe Thoda Thoda Pyar Hua Tumse\nKe Zayda Bhi Hoga Tum Hi Se\nKe Thoda Thoda Pyar Hua Tumse"
+            }
+          ]
+        },
         {
           "name": "Baaghi 2",
           "image": "https://th.bing.com/th/id/OIP.e9PhDBs1yCALXTcnJAG-cgHaEK?w=322&h=181&c=7&o=5&pid=1.7",
