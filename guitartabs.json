@@ -1,5 +1,10 @@
 {
   "data": {
+    "contact": {
+      "email": "asapps.devs@gmail.com",
+      "instagram": "instagram profile link",
+      "facebook": "facebook page link",
+    },
     "categories": [
       {
         "name": "Single String",
