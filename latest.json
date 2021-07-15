@@ -1,5 +1,10 @@
 {
   "data": {
+    "contact": {
+      "email": "asapps.devs@gmail.com",
+      "instagram": "insta page ling",
+      "facebook": "facebook page link"
+    },
     "categories": [
       {
         "name": "Hindi",
