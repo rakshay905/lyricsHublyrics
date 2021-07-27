@@ -8,7 +8,22 @@
     "categories": [
       {
         "name": "Hindi",
-        "albums": [  
+        "albums": [
+          {
+            "name": "Ludo",
+            "image": "https://bingeddata.s3.amazonaws.com/uploads/2020/11/Ludo-Movie-Review-Ludo-Netflix-Movie-Review-2.jpg",
+            "songs":[
+              {
+                "name": "Baby Girl",
+                "image": "https://bingeddata.s3.amazonaws.com/uploads/2020/11/Ludo-Movie-Review-Ludo-Netflix-Movie-Review-2.jpg",
+                "song-image": "https://th.bing.com/th/id/OIP.su2B_idqdKDPgfEb-vF4GAHaEK?pid=ImgDet&rs=1",
+                "singer": "Arijit Singh",
+                "music": "Pritam",
+                "lyricsby": "Sandeep Srivastava",
+                "lyrics": "Ya Toh Barbaad Kardo\n\nYa Toh Barbaad Kardo\nYa Fir Aabaad Kardo\nYa Toh Barbad Kardo\nYa Fir Aaabad Kardo\n\nWo Galat Tha Ye Sahi Hai\nJhooth Ye Aaj Kehdo\nItna Ehsaan Kardo\n\nItna Ehsaan Kardo\nPoore Armaan Kardo\nLab Pe Aake Jo Ruke Hai\nDhayi Wo Harf Kehdo\n\nMeri Saanson Se Judi Hai\nTeri Har Saans Kehdo\nMushqil Aasaan Kardo\n\nMushqil Aasaan Kardo\nYa Toh Barbaad Kardo\nYa Fir Abaad Kardo\nYa Toh Barbaad Kardo\n\nMeetha Sa Ye Zehar\nMain Toh Peeta Rahunga\nTu Khuda Na Sahi\nMain Toh Sajde Karunga\n\nHmm.. Meetha Sa Ye Zehar\nMain Toh Peeta Rahunga\nTu Khuda Na Sahi\nMain Toh Sajde Karunga\n\nTum Jo Seeri Na Hue Kya\nHumko Farhaar Kardo\nMeri Saanson Se Judi Hai\nTeri Har Saans Kehdo\nMushqil Aasaan Kardo\n\nYa Toh Barbad Kardo\nYa Fir Aabaad Kardo\nYa Toh Barbaad Kardo\n\nKhwabon Ko Jagah Na Mili Aankho Mein\nWahan Pehle Se Shailab Tha\nNagmein Banata Fira Saazon Pe\nDil Apna Fakhat Mizraab Tha\n\nKhwabon Ko Jagah Na Mili Aankho Mein\nWahan Pehle Se Shailab Tha\nNagmein Banata Fira Saazon Pe\nDil Apna Fakhat Mijraab Tha\n\nMeri Bejaan Harsraton Ko\nKaabiledaar Kardo\nMeri Saanson Se Judi Hai\nTeri Har Saans Kehdo\nItna Ehsaan Kardo\n\nItna Ehsaan Kardo\nPoore Armaan Kardo\nYa Toh Barbaad Kardo\nYa Fir Aabad Kardo"
+              }
+            ]
+          },
         {
           "name": "Thoda Thoda Pyar Hua",
           "image": "https://www.quirkybyte.com/wp-content/uploads/2021/04/7-19-1024x576.jpg",
