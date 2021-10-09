@@ -10,6 +10,21 @@
         "name": "Hindi",
         "albums": [
           {
+            "name": "Chhor Denge",
+            "image": "https://www.lyricsnova.com/wp-content/uploads/2021/02/chhor-denge-lyrics-parampara-tandon-1.jpg",
+            "songs":[
+              {
+                "name": "Chhor Denge",
+                "image": "https://www.lyricsnova.com/wp-content/uploads/2021/02/chhor-denge-lyrics-parampara-tandon-1.jpg",
+                "song-image": "https://www.lyricsnova.com/wp-content/uploads/2021/02/chhor-denge-lyrics-parampara-tandon-1.jpg",
+                "singer": "Parampara Tandon",
+                "music": "T-Series",
+                "lyricsby": "Yogesh Dubey",
+                "lyrics": "Dil toota lekar\nMuskura ke chalna sikh diya\nDhokhe ne tere humein\nSambhalna sikha diya\n\nHo mann bhar gaya hai jo humse\nSaare rishte tod denge\nJis din aadat banenge\nUsi din hi chhor denge\n\nHo mann bhar gaya hai jo humse\nSaare rishte tod denge\nJis din aadat banenge\nUsi din hi chhor denge\n\nHo hasne na denge tumhein\nRone na denge\nPal pal baad yaad aayenge\nSone na denge\n\nNa yakeen kisi pe bhi\nTum kabhi kar paoge\nKuchh is tarah se tumko\nDil hi dil mein tod denge\n\nHo mann bhar gaya hai jo humse\nSaare rishte tod denge\nJis din aadat banenge\nUsi din hi chhor denge\n\nDil lagane ke liye chale jaana\nGhairon ki tum baahon mein\nYaad meri hi aayegi\nDekhoge jab tum unki nigahon mein\n\nHo na chhupa paoge tum\nAansu itne denge\nDard banke hum tumhare\nZehan mein utrenge\n\nMaut se mila ke tumko\nZinda hi chhod denge\nHashra pe laake kisse ko\nHasin mod denge\n\nHo mann bhar gaya hai jo humse\nSaare rishte tod denge\nJis din aadat banenge\nUsi din hi chhor denge\n\nMarte huye ko bikharte huye ko\nTadapta hua chhod ke\nArre tum kya jaanoge\nKitna maza aata hai dil tod ke\n\nAane na denge\nAankhon mein apni hum nami\nArre ban’ne na denge\nTumko hum apni kami\nNa koyi sawal karna\nNa koyi jawab denge\nGinte ginte thak jaoge\nZakhm behisaab denge\n\nChhor Denge\nChhor De"
+              }
+            ]
+          },
+          {
             "name": "Rabba Mehar Kari",
             "image": "https://www.lyricsstop.com/wp-content/uploads/2021/02/Rabba-Mehar-Kari-Lyrics-In-Hindi.jpg",
             "songs":[
