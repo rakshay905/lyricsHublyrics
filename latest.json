@@ -10,6 +10,21 @@
         "name": "Hindi",
         "albums": [
           {
+            "name": "Rabba Mehar Kari",
+            "image": "https://www.lyricsstop.com/wp-content/uploads/2021/02/Rabba-Mehar-Kari-Lyrics-In-Hindi.jpg",
+            "songs":[
+              {
+                "name": "Rabba Mehar Kari",
+                "image": "https://www.lyricsstop.com/wp-content/uploads/2021/02/Rabba-Mehar-Kari-Lyrics-In-Hindi.jpg",
+                "song-image": "https://www.lyricsstop.com/wp-content/uploads/2021/02/Rabba-Mehar-Kari-Lyrics-In-Hindi.jpg",
+                "singer": "Darshan Raval",
+                "music": "Aditya Dev",
+                "lyricsby": "Youngveer",
+                "lyrics": "Duawan mangda\nMain tere layi duawan mangda\nMain jithe jithe jawaan heeriye\nSang tera parchhawan mangda\n\nMain lad’da rawaan\nZamane naal lad’da rawaan\nSitaare eh mohabbtan de\nTeri chunni utte jad’da rawaan\n\nHo tere layi ae jitti baazi\nHaar jawaan tu je raazi\nTere baajon mera mol na\n\nHo rabba mehar kari tu mehar kari\nMera ho jaaye woh na der kari\nIss janam mil jaaye woh\nUse agle janam mera pher kari\n\nMehar kari tu mehar kari\n\nMera ho jaaye woh na der kari\nIss janam mil jaaye woh\nUse agle janam mera pher kari\n\nTu hi sahara mera kinara mera\nTu hi hai chann mera sitara mera\nTu hi hai yaara mera ghuzara mera\nTu hi hai mera safar\n\nTu hi sahara mera kinara mera\nTu hi hai chann mera sitara mera\nTu hi hai yaara mera ghuzara mera\nTu hi hai mera safar\n\nHawaon ki awaz jaisa tu\nRuhani kisi saaz jaisa tu\nJo sun ke khush ho jaaye khuda\nUsi alfaz jaisa tu\n\nIshq mujhe raas aaya hai\nJab se tu paas aaya hai\nTeri khushbu se har taraf\nNaya ehsaas aaya hai\n\nShayar to hoon main waise\nTareef karun main kaise\nAlfaz mere kol na\n\nHo rabba mehar kari tu mehar kari\nMera ho jaaye woh na der kari\nIss janam mil jaaye woh\nUse agle janam mera pher kari\n\nMehar kari tu mehar kari\nMera ho jaaye woh na der kari\nIss janam mil jaaye woh\nUse agle janam mera pher kari\n\nHo rabba itna barsa de mujhpe karam\n\nHo"
+              }
+            ]
+          },
+          {
             "name": "Ludo",
             "image": "https://bingeddata.s3.amazonaws.com/uploads/2020/11/Ludo-Movie-Review-Ludo-Netflix-Movie-Review-2.jpg",
             "songs":[
