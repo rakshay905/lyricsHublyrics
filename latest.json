@@ -10,6 +10,69 @@
         "name": "Hindi",
         "albums": [
           {
+            "name": "Kabir Singh",
+            "image": "https://th.bing.com/th/id/OIP.3vjR8ps6jxiuf7g8FIfsSQHaF7?pid=ImgDet&rs=1",
+            "songs":[
+                {
+                    "name":"Bekhayali Song",
+                    "image":"https://th.bing.com/th/id/OIP.3vjR8ps6jxiuf7g8FIfsSQHaF7?pid=ImgDet&rs=1",
+                    "song-image":"https://lyricsraag.com/wp-content/uploads/2019/05/bhvh0c-6f8q-1.jpg",
+                    "singer":"Sachet Tandon",
+                    "lyricsby":"Irshad Kamil",
+                    "music":"Sachet Tandon Parampara",
+                    "lyrics":"Bekhayali Me Bhi Tera Hi Khayal Aye,\nKyoon Bishadna Hai Zaruri Ye Sawal Aye,\nTeri Nazdikiyon Ki Khushi Be-hisaab Thi,\nHissay Mein Faasle Bhi Tere Be-misaal Aaye,\n\nMain Jo Tumse Door Hu,\nKyun Door Main Rahun,\nTera Guroor Hoon,\n\nAa Tu Fasla Mitaa,\nTu Khwaab Sa Milaa,\nKyun Khwaab Torh Du.\n\nBekhayali Mein Bhi Tera Hi Khayaal Aye,\nKyun Judaai De Gaya Tu, Ye Sawaal Aye,\nThoda Sa Main Khafaa Ho Gaya Apnay Aap Se,\nThoda Sa Tujhpay Bhi Bewajah Hi Malaal Aye.\n\nHai Yeh Tadpan, Hai Yeh Uljhan,\nKaisay Jee Lu Bina Tere,\nMeri Ab Sab Se Hai Anban,\nBan te Kyoon Ye Khuda Meray.\n\nYe Jo Log Baagh Hain,\nJungle Ki Aag Hain,\nKyun Aag Mein Jalun,\nYe Nakaam Pyar Mein,\nKhush Hain Haar Mein,\nIn Jaisa Kyun Banun.\n\nRaatein Dengi Bata,\nNeendon Mein Teri Hi Baat Hai,\nBhoolun Kaise Tujhe,\nTu Toh Khayalon Mein Saath Hai.\n\nBekhayali Mein Bhi Tera Hi Khayaal Aaye,\nKyun Bichhadna Hai Zaroori Ye Sawaal Aaye,\n\nNazar Ke Aage Ik Manzar,\nRet Ki Tarah Bikhar Raha Hai,\nDard Tumhaara Badan Mein Mere,\nZeher Ki Tarah Utar Raha Hai.\n\nNazar Ke Aage Ik Manzar,\nRet Ki Tarah Bikhar Raha Hai,\nDard Tumhaara Badan Mein Mere,\nZeher Ki Tarah Utar Raha Hai.\n\nAa Zamane Aazma Le Roothta Nahi,\nFaslon Se Hausla Ye Toot ta Nahi,\nNa Hai Woh Bewafa Aur Na Main Hu Bewafa,\nWo Meri Aadaton Ki Tarah chhoot ta Nahi."
+                },
+                {
+                    "name":"Kaise Hua Song",
+                    "song-image":"https://th.bing.com/th/id/OIP.jaq6afkW1Fg9Zy5tLI_zuQHaEK?pid=ImgDet&rs=1",
+                    "singer":"Vishal Mishra",
+                    "lyricsby":"Manoj Muntashir",
+                    "music":"Vishal Mishra",
+                    "lyrics":"Hansta Rehta Hoon\nTujhse Mil Kar Kyon Aajkal\nBadle Badle Hain\nMere Tewar Kyon Aajkal\nAankhe Meri Har Jagah\nDhundhe Tujhe Bewajah\nYe Main Hoon Ya\nKoi Aur Hai Meri Tarah\n\nKaise Hua Kaise Hua\nTu Itna Jaroori Kaise Hua\nKaise Hua Kaise Hua\nTu Itna Jaroori Kaise Hua\n\nMain Baarish Ki Boli Samajhta Nahi Tha\nHawaon Se Main Yun Ulajhta Nahi Tha\nHai Seene Mein Dil Bhi\nKahan Thi Mujhe Ye Khabar\n\nKahin Pe Hon Raaten\nKahin Pe Sawere\nYe Awargi Hi Rahi Saath Mere\nTheher Ja Theher Ja\nYe Kehti Hai Teri Nazar\n\nKya Haal Ho Gaya Hai Ye Mera\nAankhe Meri Har Jagah\nDhundhe Tujhe Bewajah\nYe Main Hoon Ya\nKoi Aur Hai Meri Tarah\n\nKaise Hua Kaise Hua\nTu Itna Jaroori Kaise Hua\nKaise Hua Kaise Hua\nTu Itna Jaroori Kaise Hua\nKaise Hua Kaise Hua\nTu Itna Jaroori Kaise Hua\nHmm…"
+                },
+                {
+                    "name":"Tujhe Kitna Chahne Lage Song",
+                    "song-image":"https://th.bing.com/th/id/R.34f808be40283dd301ccd59ff07fea6b?rik=w0CB0oEtlQ2eRQ&riu=http%3a%2f%2fhityaflopmovieworld.com%2fwp-content%2fuploads%2f2019%2f05%2ftujhe-kitna-chahne-lage-from-kab.jpg&ehk=k1SQAqIlDIL1zpxxvc73dnGcuvhDQiHO%2fAlH9pi0yLE%3d&risl=&pid=ImgRaw&r=0",
+                    "singer":"Arijit Singh",
+                    "lyricsby":"Mithoon Sharma",
+                    "music":"Mithoon Sharma",
+                    "lyrics":"Dil ka dariya beh hi gaya\nIshq ibadat ban hi gaya\nKhud ko mujhe tu sonp de\nMeri zaroorat tu ban gaya\n\nBaat dil ki nazron ne ki\nSach keh raha teri kasam\nTere bin ab na lenge ik bhi dam\nTujhe kitna chahne lage hum\n\n\n \nTere bin ab na lenge ik bhi dam\nTujhe kitna chahne lage hum\nTere saath ho jayenge khatam\nTujhe kitna chahne lage hum\n\nBaat dil ki nazron ne ki\nSach keh raha teri kasam\nTere bin ab na lenge ik bhi dam\nTujhe kitna chahne lage hum\n\n\n \nTere saath ho jayenge khatam\nTujhe kitna chahne lage hum\nTujhe kitna chahne lage hum\n\nIss jagah aa gayi chahatein ab meri\nChheen loonga tumhe saari duniya se hi\nTere ishq pe haan haq mera hi toh hai\nKeh diya hai ye maine mere Rabb se bhi\n\n\n \nJis raaste tu na mile\nUs pe na ho mere kadam\n\nTere bin ab na lenge ik bhi dam\nTujhe kitna chahne lage hum\nTere saath ho jayenge khatam\nTujhe kitna chahne lage hum\nTujhe kitna chahne lage hum"
+                },
+                {
+                    "name":"Mere Sohneya Song",
+                    "song-image":"https://livecinemanews.com/wp-content/uploads/2019/07/mere-sohneya-song-video-kabir-si.jpg",
+                    "singer":"Sachet Tandon, Parampara Thakur",
+                    "lyricsby":"Irshad Kamil",
+                    "music":"Sachet Tandon Parampara",
+                    "lyrics":"Bann-Than Ke Mutiyaran Ayian\nAyian Patola Banke\nKanna De Wich Pippal Pattiyan\nBahin Choorha Khanke,\n\nBann-Than Ke Mutiyaran Ayian\nAyian Patola Banke\nKanna De Wich Pippal Pattiyan\nBahin Choorha Khanke,\n\nMere Soneya Soneya Ve\nVe Mahi Mera Kite Naiyo Dil Lagna (X2).\n\nMahi!\n\nJaawin Chhod Ke Na,\nTere Nal Rehna Ve,\nTu Shingar Mera,\nTu Ae Mahi Gehna Ve,\n\nJaawin Chhod Ke Na,\nTere Nal Rehna Ve,\nTu Shingar Mera,\nTu Ae Mahi Gehna Ve,\n\nHaye! Doori Hai Vairi,\nJina Tu Mera Onni Main Teri,\n\nMere Sohneya Sohneya Ve\nVe Maahi Mera Kitay Nahiyo Dil Lagna (X2).\n\nHaan, Haaye!\nTera Raasta Ve\nNangey Pairi Turna Ve\nTu Hai Naal Mere\nTa Main Kyoon Ae Darna Ve,\n\nTera Raasta Ve\nNangey Pairi Turna Ve\nTu Hai Naal Mere\nTa Main Kyoon Ae Darna Ve,\n\nHaye! Dono Ne Rona, Dono Ne Hassna\nSab Nu Ve Dasna…\n\nMeray Soneya Soneya Ve\nVe Mahi Mera Kite Naiyo Dil Lagna (X2).\n\nVe Mahi Mera Kite Naiyo Dil Lagna (X2).\n\nBann-Than Ke Mutiyaran Aaiyan\nAaiyan Patola Banke\nKanna De Wich Pippal Patiyan\nBaahin Chooda Khan’ke."
+                },
+                {
+                    "name":"Tera Ban Jaunga Song",
+                    "song-image":"https://th.bing.com/th/id/OIP.3vqW7trtNLEmTlPNcPA8XAHaD7?pid=ImgDet&rs=1",
+                    "singer":"Tulsi Kumar, Akhil Sachdeva",
+                    "lyricsby":"Kumaar",
+                    "music":"Akhil Sachdeva",
+                    "lyrics":"Meri Raahein Tere Tak Hai\nTujhpe Hi Toh Mera Haq Hai\nIshq Mera Tu Beshaq Hai\nTujhpe Hi Toh Mera Haq Hai\n\nSaath Chhodunga Na Tere Pichhe Aaunga\nChheen Lunga Ya Khuda Se Maang Laaunga\nTere Naal Taqdeeran Likhwaunga\nMain Tera Ban Jaaunga\nMain Tera Ban Jaaunga\n\nSonh Teri Main Kasam Yehi Khaunga\nKeete Waadeya Nu Main Nibhaunga\nTujhe Har Vaari Apna Banaunga\nMain Tera Ban Jaaunga\nMain Tera Ban Jaaunga\n\nLakhaan Ton Juda Main Hoyi Teri Khaatir\nTu Hi Manzil Dil Tera Musaafir\n\nLakhaan Ton Juda Main Hoya Teri Khaatir\nTu Hi Manzil Main Tera Musaafir\nRab Nu Bhula Betha Tere Karke\nMain Ho Gaya Qaafir\n\nTere Liye Main Jahaan Se Takraunga\nSab Kuch Khoke Tujhko Hi Paaunga\nDil Banke Main Dil Dhadkaunga\nMain Tera Ban Jaaunga\nMain Tera Ban Jaaunga\n\nSonh Teri Main Kasam Yehi Khaunga\nKeetey Waadeya Nu Umraan Nibhaunga\nTujhe Har Waari Apna Banaunga\nMain Tera Ban Jaaunga\nMain Tera Ban Jaaunga\n\nMeri Raahein Tere Tak Hai\nTujhpe Hi Toh Mera Haq Hai\nIshq Mera Tu Beshaq Hai\nTujhpe Hi Toh Mera Haq Hai."
+                },
+                {
+                    "name":"Yeh Aaina Song",
+                    "song-image":"https://1.bp.blogspot.com/-vMNYNYMFHxk/XbBbdo-gWRI/AAAAAAAACyA/5hdexPqjwbgrhJw_M7akWpcfQisq-cfTgCLcBGAsYHQ/s1600/Yeh%2BAaina.jpg",
+                    "singer":"Shreya Ghoshal",
+                    "lyricsby":"Irshad Kamil",
+                    "music":"Amaal Mallik",
+                    "lyrics":"Yeh aaina hai ya tu hai\nJo roz mujhko sanwaare\nItna lagi sochne kyun\nMain aajkal tere baare\n\nTu jheel khamoshiyon ki\nLafzon ki main toh lehar hoon\nEhesas ki tu hai duniya\nChota sa main ek shehar hoon\n\nYeh aaina hai ya tu hai\nJo roz mujhko sawaare\n\nKhud se hai agar tu bekhabar bekhabar\nRakh loon main tera khayal kya\nChupke chupke tu nazar mein utar\nSapno mein loon main sambhaal kya\nSapno mein loon main sambhaal kya\n\nMain daud ke paas aaun\nTu neend mein jo pukaare\nMain reet hoon tu hai dariya\nBaithi hoon tere kinaare\n\nYeh aaina hai ya tu hai\nJo roz mujhko sanwaare\n\nTanha hai agar tera safar humsafar\nTanhaai ka main jawaab hoon\nHoga mera bhi asar tu agar\nPadh le main teri kitaab hoon\nPadh le main teri kitaab hoon\n\nSeene pe mujhko sajaa ke\nJo raat saari guzaare\nToh main savere se keh doon\nMere shehar tu na aa re\n\nYeh aaina hai ya tu hai\nJo roz mujhko sanwaare"
+                },
+                {
+                    "name":"Pehla Pyaar",
+                    "song-image":"https://timesofindia.indiatimes.com/photo/69875429/size-141030/69875429.jpg",
+                    "singer":"Armaan Malik",
+                    "lyricsby":"Irshad Kamil",
+                    "music":"Vishal Mishra",
+                    "lyrics":"Ha Ha Ha Haaa\n\nBaatein Zaruri Hain\nTera Milna Bhi Zaruri\nMaine Mita Deni\nYe Jo Teri Meri Doori\n\nHa Ha Ha Haaa\n\nHmmm Baatein Zaruri Hain\nTera Milna Bhi Zaruri\nMaine Mita Deni\nYe Jo Teri Meri Doori\n\nJhuthi Hai Wo Raahe Saari Duniya Ki\nIshq Jaha Naa Chale\nTera Hona Mera Hona Kya Hona\nAgar Na Dono Mile\n\nTu Pehla Pehla Pyar Hai Mera\nTu Pehla Pehla Pyar Hai Mera\nTu Pehla Pehla Pyaar Hai Mera\nTu Pehla Pehla Pyaar Hai Mera Haan\n\nHa Ha Ha Haaa\n\nWo Shehar Wade Honge Boriyat Bhare\nRehta Nahi Jinme Tu Sang Mere\nKhabar Tujhe Bhi Hai Ye\nRaunake Sabhi Hoti Tere Hone Se\nTere Bina Tanha Koyi Kya Kare\n\nAise Sabhi Sheharo Pe Mujhko\nTaras Hai Aata Bada Haan\nTere Liye Main Na Jaha Khada Ooo\n\nMilo Ka Ho Saalo Ka Ho Jaaye Wo\nSafar Ki Parwah Nahi\nTu Hai Jaha Maine Waha Hona Hai\nPahuch Hai Jaana Wahi\n\nPehla Pehla Pyar Hai Mera\nTu Pehla Pehla Pyar Hai Mera\nTu Pehla Pehla Pyaar Hai Mera\nPehla Pehla Pyaar Hai Mera\n\nJeete Jee To Jeetega Na\nYe Fansla Hai Pata\nSaanse Chale Teri Taraf\nJaise Chale Raasta\nMera Hai Tu, Tu Hai Khalish\nYa Hai Khushi Ya Khata\nTere Siva Mera Jaha Se Na Koyi Wasta"
+                }
+            ]
+          },
+          {
             "name": "Dilwale Dulhania Le Jayenge",
             "image": "https://th.bing.com/th/id/OIP.Y0hV_mpMTY5exoY4vUIctwHaEK?pid=ImgDet&rs=1",
             "songs":[
