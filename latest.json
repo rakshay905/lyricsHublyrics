@@ -1264,6 +1264,45 @@
         "name": "Old Hindi",
         "albums": [
           {
+            "name": "Chupke Chupke",
+            "image": "https://th.bing.com/th/id/OIP.rgYO-inWDDzn9wXCK-e7rQHaEK?pid=ImgDet&rs=1",
+            "songs":[
+                {
+                    "name":"Ab Ke Sajan Saawan Mein",
+                    "image":"https://th.bing.com/th/id/OIP.rgYO-inWDDzn9wXCK-e7rQHaEK?pid=ImgDet&rs=1",
+                    "song-image":"https://th.bing.com/th/id/R.ac9e60b01742f7bc3f3c9b8bb61159cd?rik=PjauF4pyAhnYBw&riu=http%3a%2f%2fwww.lemonwire.com%2fwp-content%2fuploads%2f2016%2f10%2fmaxresdefault-14.jpg&ehk=6rCkEGRi%2fxyKQeKr4fHbKhB8K5ZawN2Iv99fWdZ9XzU%3d&risl=&pid=ImgRaw&r=0",
+                    "singer":"Lata Mangeshkar",
+                    "lyricsby":"Anand Bakshi",
+                    "music":"S. D. Burman",
+                    "lyrics":"Ab ke sajan sawan me\nAb ke sajan sawan me\nAag lagegi badan me\nGhata barasegi\nMagar tarasegi najar\nMil naa sakenge do\nMann ek hi aangan me\nAb ke sajan sawan me\nAag lagegi badan me\nGhata barasegi\nMagar tarasegi najar\nMil naa sakenge do\nMann ek hi aangan me\nAb ke sajan sawan me\n\n\nDo dilo ki bich\nKhadi kitani divare\nHy do dilo ki bich\nKhadi kitani divare\nKaise sunungi mai\nPiya prem ki pukare\nChori chupake se\nTum lakh karo\nJatan lakh karo jatan\nSajan mil naa sakenge\nDo mann ek hi aangan me\nAb ke sajan sawan me\n\n\nItne bade ghar me\nNahi yek bhi jharokha\nItne bade ghar me\nNahi yek bhi jharokha\nKis tarah ham denge\nBhala duniya ko dhokha\nRat bhar jagayegi yeh mast\nMast pawan mast mast pawan\nSajan mil naa sakenge do\nMan yek hi aangan me ishq\nAb ke sajan sawan me\n\n\nTere mere pyar kaa\nYeh sal bura hoga\nTere mere pyar kaa\nYeh sal bura hoga\nJab bahar aayegi\nToh hal bura hoga\nKante lagayega\nYeh phulo bhara chaman\nPhulo bhara chaman\nAb ke sajan sawan\nMe aag lagegi badan me\nGhata barasegi magar\nTarasegi najar mil naa\nSakenge do mann\nEk hi aangan me."
+                },
+                {
+                    "name":"Baagon mein Kaise Ye Phol Khilte Hai",
+                    "song-image":"https://i.ytimg.com/vi/wm-hlDml8M8/maxresdefault.jpg",
+                    "singer":"Mukesh Chand Mathur, Lata Mangeshkar",
+                    "lyricsby":"Anand Bakshi",
+                    "music":"S. D. Burman",
+                    "lyrics":"O aa bago me\nBago me kaise yeh phul\nKhilte hain ho khilte hain\nKhilte hain bhanwaro se jab\nPhul milte hain ho milte hain\nO bago me\n\n\nRangili rut aake\nRang deti hai inko\nRangili rut aake\nRang deti hai inko\nNahi tumsi koyi gori\nChum leti hai inko\nPhulo ko phulo ko\nHotho se rand du\nMilte hai milte hai\nO bago me\n\n\nO aa ha…\nMausam baharo ke\nLagte hain kyon pyare\nMausam baharo ke\nLagte hain kyon pyare\nHanste hain rote hain\nKaliyo ke sang sare\nKaliyo ke kaliyo ke\nKhilne se dil bhi\nKhilte hain khilte hain\nBago me\n\n\nAchha abb tum bolo\nAisa kab hota hai\nAchha abb tum bolo\nAisa kab hota hai\nBade woh ho mat\nChhedo aisa tab hota hai\nJab tere jab tere naino se\nMere nain milte hai milte hai\nBago me kaise yeh phul\nKhilte hain ho khilte hain\nKhilte hain bhanwaro se jab\nPhul milte hain ho milte hain\nO bago me."
+                },
+                {
+                    "name":"Chupke Chupke Chal Re Purvaiya",
+                    "song-image":"https://i.ytimg.com/vi/TemrppyPuI8/maxresdefault.jpg",
+                    "singer":"Lata Mangeshkar",
+                    "lyricsby":"Anand Bakshi",
+                    "music":"S. D. Burman",
+                    "lyrics":"Chupke chupke chal ri puravaiya\nO chupke chupke chal ri puravaiya\nChupke chupke chal ri puravaiya\n\n\nBaansuri bajaaye re raas\nRachaaye dayya re dayya\nGopiyon sang kanhaiya\nChupke chupke chal ri puravaiya\nChupke chupke chal ri puravaiya\n\n\nPagal pavan se kaise koi bole\nPagal pavan se kaise koi bole\nGori ke mukh se ghunghata na khole\nDole haule se man ki naiya\nGopiyon sang kanhaiya\nChupke chupke chal ri puravaiya\nChupke chupke chal ri puravaiya\n\n\nYe kya hua mujhko\nKya hai ye paheli\nYe kya hua mujhko\nKya hai ye paheli\nAise jaise ke koi raadha\nKi saheli main bhi\nDhundhu kadam ki chainya\nGopiyon sang kanhaiya\nChupke chupke chal ri puravaiya\nChupke chupke chal ri puravaiya\n\n\nAaise samay pe koi\nChup bhi rahe kaise\nAaise samay pe koi\nChup bhi rahe kaise\nBaandh liye rut ne\nPag main ghungharu jaise\nNaache man ta thaiyya ta thaiya\nGopiyon sang kanhaiya\nChupke chupke chal ri puravaiya\nChupke chupke chal ri puravaiya."
+                },
+                {
+                    "name":"sa re ga ma chupke chupke",
+                    "song-image":"https://i0.wp.com/www.lyricsbogie.com/wp-content/uploads/2020/08/sa-re-ga-ma-lyrics.jpg?resize=1152%2C648&ssl=1",
+                    "singer":"Kishore Kumar, Mohammed Rafi",
+                    "lyricsby":"Anand Bakshi",
+                    "music":"S. D. Burman",
+                    "lyrics":"Chal shuru hoja uhun\nUhun khansata hai\nHai ha hai ha gala\nThik karata hai\nSa aa aa aa aa aa\nArey bas bas bas bas sa\nPe ruk gaya aage badh\nRey rey key aage kya hai\nGa arey wah wah wah\nWah kya gale me tasir hai\nYeh bat hai toh ma chal\nWapas aaja apni jagah pe\nSa rey ga ma aaha\nMa sa rey ga wah wah\nGa sa rey ma o ho\nMa ga rey sa oh oh oh\n\n\nSa rey ga ma ma sa rey\nGa ga sa rey ma ma ga rey sa\nPa dha pa ma ma pa ma\nGa ra pa ma ma ga rey sa\nSa rey ga ma ma sa rey\nGa ga sa rey ma ma ga rey sa\n\n\nGit pehle bana tha ya\nBani thi yeh sargam\nEk hi sath huwa tha do\nDilo kaa yeh sangam\nGit pehle bana tha ya\nBani thi yeh sargam\nEk hi sath huwa tha do\nDilo kaa yeh sangam\nPyar kaa yeh tarana\nZamana sun ley\nSa rey ga ma one two thre four\nSa rey ga ma ma sa rey\nGa ga sa rey ma ma ga rey sa\n\n\nJaise dil milate hain\nWaise sur khilate hain\nJaise dil milate hain\nWaise sur khilate hain\nPhul kab giton key\nHontho pe khilate hain\nTum tanana dhin\nTanana zamana sun ley\nSa rey ga ma one two thre four\nSa rey ga ma ma sa rey ga\nGa sa rey ma ma ga rey sa\nMa ga rey sa ma ga rey sa\nMa ga rey sa ma ga rey sa."
+                }
+            ]
+          },
+          {
             "name": "Aradhana",
             "image": "https://cdn-2.cinemaparadiso.co.uk/18081604570064_l.jpg",
             "songs":[
