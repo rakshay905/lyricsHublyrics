@@ -1264,6 +1264,45 @@
         "name": "Old Hindi",
         "albums": [
           {
+            "name": "Anand",
+            "image": "https://i0.wp.com/cancerawakens.com/wp-content/uploads/2011/08/player_crop_1000x563_41752_1603_q80.jpg?fit=1000%2C563&ssl=1",
+            "songs":[
+                {
+                    "name":"Kahin Door Jab Din Dhal Jaye Song",
+                    "image":"https://i0.wp.com/cancerawakens.com/wp-content/uploads/2011/08/player_crop_1000x563_41752_1603_q80.jpg?fit=1000%2C563&ssl=1",
+                    "song-image":"https://www.ajoobalyrics.com/wp-content/uploads/2020/08/kahin-door-jab-din-dhal-jaye-lyrics-anand-1024x576.jpg",
+                    "singer":"Mukesh Chand Mathur",
+                    "lyricsby":"Yogesh Gaud",
+                    "music":"Salil Chowdhury",
+                    "lyrics":"Kahin door jab din dhal jaye\nSanjh ki dulhan badan churaye\nChupke se aaye mere\nKhayaalon ke aangan mein\nKoi sapnon ke deep\nJalaaye deep jalaaye\nKahin door jab din dhal jaye\nSanjh ki dulhan badan\nChuraye chupke se aaye\n\n\nKabhi yun hi jab\nHui bojhal saansen\nBhar aai baithe baithe\nJab yun hi aankhen\nKabhi machal ke\nPyar se chal ke\nChhuye koi mujhe\nPar nazar na aaye\nKahin door jab din dhal jaye\nSanjh ki dulhan badan\nChuraye chupke se aaye\n\n\nKahin to yeh dil\nKabhi mil nahin paate\nKahin pe nikal\nAaye janmon ke naate\nThami thi uljhan\nBairi apna man\nApna hi hoke\nSahe dard paraaye\nKahin door jab\nDin dhal jaye\nSanjh ki dulhan\nBadan churaye\nChupke se aaye."
+                },
+                {
+                    "name":"Maine Tere Liye Song",
+                    "song-image":"https://img.huntsongs.com/videoImage/2014/12/mid/Maine-Tere-Liye-Anand_2.jpg",
+                    "singer":"Mukesh Chand Mathur",
+                    "lyricsby":"Gulzar, Gulzar",
+                    "music":"Salil Chowdhury",
+                    "lyrics":"Maine tere liye hi saat rang ke\nSapne chune sapne surile sapne\nMaine tere liye hi saat rang ke\nSapne chune sapne surile sapne\nKuch hansi ke kuch gum ke\nTeri ankho ke saye\nChuraye rasili yado ne\nMaine tere liye hi saat rang ke\nSapne chune sapne surile sapne\n\n\nChoti bate choti choti\nBato ki hai yade badi\nBhule nahi bithi\nHuyi ek choti ghadi\nChoti bate choti choti\nBato ki hai yade badi\nBhule nahi bithi\nHuyi ek choti ghadi\nJanam janam se ankhen\nBichaye tere liye in raho me\nMaine tere liye hi\nSaat rang ke sapne\nChune sapne surile sapne\n\n\nBhole bhale bhole\nBhale dil ko behlate rahe\nTanhai me tere\nKhayalo ko sajate rahe\nBhole bhale bhole bhale\nDil ko behlate rahe\nTanhai me tere\nKhayalo ko sajate rahe\nKabhi kabhi tho aawaz\nDekar mujhko jagaya\nKhwabo ne maine tere liye hi\nSaat rang ke sapne\nChune sapne surile sapne\n\n\nRuthi raten ruthi\nHuyi rato ko jagaya kabhi\nTere liye bithi subah\nKo bulaya kabhi\nTere bina bhi tere liye\nHi diye jalaye rato me\nMaine tere liye hi\nSaat rang ke sapne\nChune sapne surile sapne."
+                },
+                {
+                    "name":"Zindagi Kaisi Hai Paheli Song",
+                    "song-image":"https://th.bing.com/th/id/R.3519f14d5a3ed6f156abda1d9a90cc5d?rik=0MbkBBm60yaxRQ&riu=http%3a%2f%2fthesongpedia.com%2fwp-content%2fuploads%2f2016%2f05%2fzindagi-kaisi-hai-paheli-anand.jpg&ehk=A39%2fNkZYozbRpUASwYqmfaqKjYJePkio6F%2fuQQc2Wyk%3d&risl=&pid=ImgRaw&r=0",
+                    "singer":"Manna Dey",
+                    "lyricsby":"Yogesh Gaud",
+                    "music":"Salil Chowdhury",
+                    "lyrics":"Jindgi kaisi hai paheli haye\nKabhi toh hasaye kabhi yeh rulaye\nJindgi kaisi hai paheli haye\nKabhi toh hasaye kabhi yeh rulaye\n\n\nKabhi dekho mann nahi jage\nPichhe pichhe sapno ke bhage\nKabhi dekho mann nahi jage\nPichhe pichhe sapno ke bhage\nEk din sapno kaa rahi chala\nJayey sapno ke aage kaha\nJindgi kaisi hai paheli haye\nKabhi toh hasaye kabhi yeh rulaye\n\n\nJinhone sajaye yaha mele\nSukh dukh sang sang jhele\nJinhone sajaye yaha mele\nSukh dukh sang sang jhele\nWahi chunkar khamoshi\nYu chali jayey akele kaha\nJindgi kaisi hai paheli haye\nKabhi toh hasaye kabhi yeh rulaye."
+                },
+                {
+                    "name":"Na Jiya Lage Na Song",
+                    "song-image":"https://i.ytimg.com/vi/qCqDuxVTbi8/maxresdefault.jpg",
+                    "singer":"Lata Mangeshkar",
+                    "lyricsby":"Gulzar, Gulzar",
+                    "music":"Salil Chowdhury",
+                    "lyrics":"Na jiya laage na\nTere bina mera kahin jiya\nLage na\n\n\nNaaa jiya laage na\nTere bina mera kahin jiya\nLage na\nNaa jiya lage na\n\n\nJeena bhoole the\nKahan yaad nahin\nTujhko paya hai jahan\nSaans fir aayi wahin\n\n\nJeena bhoole the\nKahan yaad nahin\nTujhko paya hai jahan\nSaans fir aayi wahin\n\n\nZindagi\nZindagi tere siva\nHaai bhaye na\nNaa jiya lage na\nTere bina mera\nKahin jiya lage na\nNaa jiya lage na\n\n\nNaaa jiya lage na\nNaaa jiya lage na\nPiya teri bawari\nSe raha jaye na\nNaaa jiya lage na\nPiya teri bawari\nSe raha jaye na\n\n\nTum agar jaao\nKabhi jaao kahin\nWaqt se kehna zara\nWo theher jaye wahin\nTum agar jaao\nKabhi jaao kahin\nWaqt se kehna zara\nWo theher jaye wahin\n\n\nWo ghadi wo ghadi\nWahin rahe na jaye na\nNaaa jiya lage na\nTere bina mera kahin\nJiya aa lage na\nNaaa jiya lage na."
+                }
+            ]
+          },
+          {
             "name": "Shree 420",
             "image": "https://jiocinemaweb.cdn.jio.com/jioimages.cdn.jio.com/content/entry/dynamiccontent/thumbs/1680/-/0/70/67/86ccdf809a0c11eab924a77122006b7d_1590397823761_l_medium.jpg",
             "songs":[
