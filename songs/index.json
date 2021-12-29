@@ -1,0 +1,49 @@
+{
+    "contact": {
+        "email": "asapps.devs@gmail.com",
+        "instagram": "https://www.instagram.com/invites/contact/?i=flpwp5uew4d0&utm_content=mfe0ut7",
+        "facebook": "https://m.facebook.com/profile.php?id=100071106295717"
+    },
+    "categories": [
+        {
+            "name": "Hindi",
+            "api": "https://raw.githubusercontent.com/rakshay905/lyricsHublyrics/main/songs/hindi.json",
+            "description": "Hindi Song Lyrics"
+        },
+        {
+            "name": "Old Hindi",
+            "api": "https://raw.githubusercontent.com/rakshay905/lyricsHublyrics/main/songs/oldhindi.json",
+            "description": "Old Hindi Song Lyrics"
+        },
+        {
+            "name": "English",
+            "api": "https://raw.githubusercontent.com/rakshay905/lyricsHublyrics/main/songs/english.json",
+            "description": "English Song Lyrics"
+        },
+        {
+            "name": "Punjabi",
+            "api": "https://raw.githubusercontent.com/rakshay905/lyricsHublyrics/main/songs/punjabi.json",
+            "description": "Punjabi Song Lyrics"
+        },
+        {
+            "name": "Haryanvi",
+            "api": "https://raw.githubusercontent.com/rakshay905/lyricsHublyrics/main/songs/haryanvi.json",
+            "description": "Haryanvi Song Lyrics"
+        },
+        {
+            "name": "Korean",
+            "api": "https://raw.githubusercontent.com/rakshay905/lyricsHublyrics/main/songs/korean.json",
+            "description": "Korean Song Lyrics"
+        },
+        {
+            "name": "Tamil",
+            "api": "https://raw.githubusercontent.com/rakshay905/lyricsHublyrics/main/songs/tamil.json",
+            "description": "Tamil Song Lyrics"
+        },
+        {
+            "name": "Collections",
+            "api": "https://raw.githubusercontent.com/rakshay905/lyricsHublyrics/main/songs/collections.json",
+            "description": "Collections"
+        }
+    ]
+}
