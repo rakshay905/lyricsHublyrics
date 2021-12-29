@@ -1,0 +1,40 @@
+{
+    "name": "Tamil",
+    "albums": [
+      {
+        "name": "Master",
+        "image": "https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/MasterSecondLook.jpg?itok=GJpdMamJ",
+        "songs": [
+          {
+            "name": "Master the Blaster",
+            "image": "https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/MasterSecondLook.jpg?itok=GJpdMamJ",
+            "song-image": "https://www.lyricsfans.com/wp-content/uploads/2021/01/Master-the-Blaster-Lyrics.jpg",
+            "singer": "Bjorn Surrao",
+            "music": "Anirudh Ravichander",
+            "lyricsby": "Bjorn Surrao",
+            "lyrics": "Got the Man with the Plan Right Here\nBringin Swag with the Man Right Here\nLivin Up and Sippin on Beer\nYeah Clap for Me Man Right Here\n\nGot the Man with the Plan Right Here\nBringin Swag with the Man Right Here\nLivin Up and Sippin on Beer\nYeah Clap for Me Man Right Here\n\nHey.. No Matter What They Say\nMaster the Blaster\n\nHey.. No Matter What They Do\nMr. Master the Blaster\n\nRiddim\n\nHey.. No Matter What They Say\nMaster the Blaster\nMaster the Blaster\n\nHey.. No Matter What They Do\nMr. Master the Blaster\n\nGot the Man with the Plan Right Here\nBringin Swag with the Man Right Here\nLivin Up and Sippin on Beer\nYeah Clap for Me Man Right Here\n\nGot the Man with the Plan Right Here\nBringin Swag with the Man Right Here\nLivin Up and Sippin on Beer\nYeah Clap for Me Man Right Here\n\nSound the Alarm",
+            "youtube-link": "https://www.youtube.com/watch?v=PrOhbi1S5Gk"
+          },
+          {
+            "name": "Vaathi Kabaddi",
+            "image": "https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/MasterSecondLook.jpg?itok=GJpdMamJ",
+            "song-image": "https://th.bing.com/th/id/OIP.RctfD4xXBoSw56aftMbUvgHaHa?pid=ImgDet&rs=1",
+            "singer": "Maran, Jayamoorthy",
+            "music": "Anirudh Ravichander, Vidyasagar",
+            "lyricsby": "Vivek",
+            "lyrics": "Kabaddi Kabaddi\nKabaddi Kabaddi\nKabaddi Kabaddi Kabaddi\n\nAanji Poonji Sangala Poddatchu\nPoolla Nee Moru Thoolli Vanda Kaadu\n\nKabaddi Kabaddi....(x Times)\n\nAanji Poonji Sangala Poddatchu\nPoolla Nee Moru Thoolli Vanda Kaadu\n\nKabaddi Kabaddi\nKabaddi Kabaddi\nKabaddi Kabaddi Kabaddi\n\nAanji Poonji\nAanji Poonji\nHuy\n\nKabaddi Kabaddi\nKabaddi Kabaddi\n\nAanji Poonji Sangala Poddatchu\nPoolla Nee Moru Thoolli Vanda Kaadu\n\nKabaddi Kabaddi\nKabaddi Kabaddi\n\nKabaddi Kabaddi....(x Times)\n\nKabaddi Kabaddi\nKabaddi Kabaddi\n\nAanji Poonji Sangala Poddatchu\nPoolla Nee Moru Thoolli Vanda Kaadu\nAanji Poonji Sangala Poddatchu\nPoolla Nee Moru Thoolli Vanda Kaadu\n\nKabaddi Kabaddi....(x Times)",
+            "youtube-link": "https://www.youtube.com/watch?v=jIVjWFOY6r4"
+          },
+          {
+            "name": "Polakattum Para Para",
+            "song-image": "https://img.youtube.com/vi/K-0RGG8xvJU/mqdefault.jpg",
+            "singer": "Anirudh Ravichander",
+            "music": "Anirudh Ravichander",
+            "lyricsby": "Lokesh",
+            "lyrics": "Coming Soon.......",
+            "youtube-link": "https://www.youtube.com/watch?v=9m4bEm8YmZs"
+          }
+        ]
+      }
+    ]
+  }
