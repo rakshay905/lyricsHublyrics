@@ -1,6 +1,21 @@
 {
     "name": "Punjabi",
     "albums": [
+        {
+  "name": "Shahadat",
+  "image": "https://dns2.vippendu.com/thumb/12880.jpg",
+  "songs": [
+    {
+      "name":"Shahadat",
+      "image":"https://dns2.vippendu.com/thumb/12880.jpg",
+      "song-image":"https://dns2.vippendu.com/thumb/12880.jpg",
+      "singer":"Jass Bajwa",
+      "lyricsby":"Gurdeep Mnalia",
+      "music":"Mix Singh",
+      "lyrics":"charna de vich sajda kriye. \nkalgi tarde a shera de,  \numra vich pahve chhote c, \njehre c bade c dalera de..\nsind kodo naam de  layi..\nkar gaye jaan noshavar ji..\ndhan dhan baba fateh singh ji,\ndhan baba jorawar ji...\ndhan dhan baba fateh singh ji,\ndhan baba jorawar ji..\n\nthande burj de vich honsle,\nagg de vich tupde c,\njulam de kolo darna ni..\neh daadi ji dasde c..\npulyio na jo gal keh gaye,\ndata teg bhadur ji..\n\ndhan dhan baba fateh singh ji,\ndhan baba jorawar ji..\nnikiya nikiya jinda sanu,\nke vade vade kar gaye c.\nniiha de vich khad ke.\nniiha sikhdiya oh par gaye c,\njiniya sarsa chad ke ayiaa,\nkine aaye sagar ji...\n\ndhan dhan baba fateh singh ji,\ndhan baba jorawar ji..\nki beeti hou onha te hi,\nsoch ke hi dil dar janda..\naaj vi langiye jadu sirhend toh,\ndil mnaliye dhal janda,\nrendi duniya tak koum cho,\nrahu jina da aagar ji..\ndhan dhan baba fateh singh ji,\ndhan baba jorawar ji......."
+    }
+  ]
+},
       {
           "name": "Bacdafucup",
           "image": "https://www.ilyricshub.com/wp-content/uploads/2021/06/bacthafu-up-karan-aujla-300x169.jpg",
