@@ -1,6 +1,168 @@
 {
     "name": "Hindi",
     "albums": [
+        {
+            "name": "Atrangi Re",
+            "image": "https://i.ytimg.com/vi/wlLrCUVZ9Ko/maxresdefault.jpg",
+            "songs": [
+              {
+                "name":"Garda Song",
+                "image":"https://i.ytimg.com/vi/wlLrCUVZ9Ko/maxresdefault.jpg",
+                "song-image":"https://i.ytimg.com/vi/0Nkh6X4YMzk/maxresdefault.jpg",
+                "singer":"Daler Mehndi",
+                "lyricsby":"Irshad Kamil",
+                "music":"A. R. Rahman",
+                "lyrics":"Aaya Aaya Paga Paga\nBaaghi Chhora Aaya Re\nGali Gali Taanka Jhaanka\nBaaghi Chhora Aaya Re\n\nAaya Aaya Paga Paga\nBaaghi Chhora Aaya Re\nGali Gali Taanka Jhaanka\nBaaghi Chhora Aaya Re\n\nApni Gali Ka Hero\nLadka Kamaal Hai\nSurname Puchho Toh Ji\nApna Bhuchaal Hai\n\nAankhon Se Udhaar Kiya\nHothon Se Vyapaar Kiya\nPrem Padhati Yeh Bas\nSala Garda Uda Diye\n\nArey Garda Uda Diye\n\nBeta Garda Uda Diye\n\nAaya Aaya Paga Paga\nBaaghi Chhora Aaya Re\nGali Gali Taanka Jhaanka\nBaaghi Chhora Aaya Re\n\nChhore Mein Jaadoo\nJaadoo Mein Chhora\nRe Baaga Re Baaga\nRe Baaga Baaga Baaga\n\nHo Jaadoo Taqdeeron Ka\nHathon Ki Lakeeron Ka\nKhud Maine Badla Hai Pyar Se\n\nPaaya Jo Tha Paana\nMaine Yahan Rozana\nHai Jeet Ko Chheena Haar Se\n\nHo Hai Yeh Tareeka Pyare\nSamjho Ishaare Saare\nTu Hi Jaane Tere Baare\nSamjho Ishaare Saare\n\nDale Dora Dale Dora\nGora Gora Baaghi Chhora\n\nDale Dora Re\nBaaga Gora Gora Re\nBaaghi Baaghi Chhora Re\nSala Garda Uda Diye\n\nDale Dora Re\nBaaga Gora Gora Re\nBaaghi Baaghi Chhora Re\nBeta Garda Uda Diye\n\nAaya Aaya Paga Paga\nBaaghi Chhora Aaya Re\nGali Gali Taanka Jhaanka\nBaghi Chhora Aaya Re\n\nApni Gali Ka Hero\nLadka Kamaal Hai\nSurname Puchho Toh Ji\nIska Bhuchaal Hai\n\nAankhon Se Udhaar Kiya\nHothon Se Vyapaar Kiya\nPrem Padhati Yeh Bas\nSala Garda Uda Diye\n\nDale Dora Re\nBaaga Gora Gora Re\nBaaghi Baaghi Chhora Re\n\nDale Dora Re\nBaaga Gora Gora Re\nBaaghi Baaghi Chora Re\n\nArey Garda Uda Diya Re"},
+              {
+                "name":"Chaka Chak Song",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/ZS4V05gAy9k/maxresdefault.jpg",
+                "singer":"Shreya Ghoshal",
+                "lyricsby":"Irshad Kamil",
+                "music":"A. R. Rahman",
+                "lyrics":"Haaye chaka chak\nChaka chak hai tu\nHaaye chaka chak\nChaka chak hoon main\n\nHaaye chaka chak\nChaka chak hai tu\nHaaye chaka chak\nChaka chak hoon main\n\nTapti dopahari si\nLadki gilhari si\nMeri jaisi chahiye\nTere jaise ko\n\nPhoolon wali dali bhi ho\nChumma bhi ho gaali bhi ho\nBolo kaisi chahiye\nTere jaisi ko\n\nPalang toot-ta pehli raat\nSaara mohalla karta awaaz\nHui chaubare mein barsat\nKaun wahan tha kiske sath\n\nHaaye chaka chak\nChaka chak hai tu\nHaaye chaka chak\nChaka chak hoon main\n\nHaaye chaka chak\nChaka chak hai tu\nHaaye haaye chaka chak\nChaka chak hoon main\n\nMujhe tumhare nakhre wakhre\nPyare hain pyare hain\nTujhe hai bhaye latke jhatke\nMere ji mere ji\n\nMari hoon main\nMari hoon main\nAb tere ishq bukhar mein\n\nRakh le na rakh le na\nRakh le na rakh le na\nRakh le dil pyar mein\n\nHaaye chaka chak\nChaka chak hai tu\nHaaye chaka chak\nChaka chak hoon main\n\nMere wala mere wala\nMere wala tu\nTere wali tere wali\nTere wali main\n\nHaaye chaka chak\nChaka chak hai tu\nHaaye chaka chak\nChaka chak hoon main\n\nMere wala mere wala\nMere wala tu\nHaaye tere wali tere wali\nTere wali main"},
+              {
+                "name":"Tere Rang Song",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/f8gdO0JePQ0/maxresdefault.jpg",
+                "singer":"Shreya Ghoshal, Haricharan Seshadri",
+                "lyricsby":"Irshad Kamil",
+                "music":"A. R. Rahman",
+                "lyrics":"Tak Tadak Bhadak\nDil Dhadhak Dhadhak\nGaya Atak Atak Na Maana\n\nLatt Gayi Re Ulajh\nGaye Kaise Koyi Hatt Gaya\nMan Se Lipat Anjana\n\nWoh Neel Ang Sa Roop Rang\nLiye Shagun Samadhi Prem Bhang\nChadhe Ang Ang Phir Mann Matang\nAur Tar Badan Mein Sang Sang\nAur Kanha\n\nMurli Ki Yeh Dhun Sunn Radhike\nMurli Ki Yeh Dhun Sunn Radhike\nMurli Ki Yeh Dhun Sunn Radhike\n\nDhun Saans Saans Mein Bunn Ke\nDhun Saans Saans Mein Bunn Ke\nKarde Prem Ka Geet Ka\nMonh Ka Shagun\n\nMurli Ki Yeh Dhun Sunn Radhike\nMurli Ki Yeh Dhun Sunn Radhike\nMurli Ki Yeh Dhun Sunn Radhike\n\nHo Aana Jo Aake Kabhi\nPhir Jaana Jaana Nahi\nJaana Ho Tune Agar\nToh Aana Aana Nahi\n\nTere Rang Ranga\nTere Rang Ranga\nMann Mehkega Tan Dehkega\n\nTere Rang Ranga\nTere Rang Ranga\nMann Mehkega Tan Dehkega\n\nTere Rang Ranga\nTere Rang Ranga\nMann Mehkega Tan Dehkega\n\nAana Jo Aake Kabhi\nPhir Jaana Jaana Nahi\nJaana Ho Tune Agar\nToh Aana Aana Nahi\n\nTere Rang Ranga\nTere Rang Ranga\nMann Mehkega Tann Dehkega\n\nTere Rang Ranga\nTere Rang Ranga\nMann Mehkega Tann Dehkega\n\nTumse Tumko Paana\nTann Mann Tum, Tann Mann Tum\nTumse Mann Ko Jaana\nUljhan Gum, Uljhan Gum\n\nTumse Tumko Paana\nTann Mann Tum\n\nJiya Re Naina\nChupke Chupke Hare\nMann Gum Sum Mann Gum Sum\n\nDori Toote Na Na Na\nBandhi Naino Ne\nJo Sang Tere Dekhe Maine Toh\nSab Rang Tere Sab Rang Tere\nFeeke Na Ho Chhoote Na Yeh Rang\n\nTere Rang Ranga\nTere Rang Ranga\nMann Mehkega Tan Dehkega\n\nTere Rang Ranga\nTere Rang Ranga\nMann Mehkega Tan Dehkega\n\nTere Rang Ranga\nTere Rang Ranga\nMann Mehkega Tan Dehkega\n\nTere Rang Ranga\nTere Rang Ranga\nMann Mehkega Tan Dehkega\n\nMurli Ki Yeh Dhun Sunn Radhike\nMurli Ki Yeh Dhun Sunn Radhike\nMurli Ki Yeh Dhun Sunn Radhike\n\nDhun Saans Saans Mein Bunn Ke\nDhun Saans Saans Mein Bunn Ke\nKarde Prem Ka Geet Ka\nMonh Ka Shagun\n\nMurli Ki Yeh Dhun Sunn Radhike\nMurli Ki Yeh Dhun Sunn Radhike\nMurli Ki Yeh Dhun Sunn Radhike"},
+              {
+                "name":"Little Little Song",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/0fPwNM2IL98/maxresdefault.jpg",
+                "singer":"Dhanush, Hiral Viradia",
+                "lyricsby":"Irshad Kamil",
+                "music":"A. R. Rahman",
+                "lyrics":"Total Main Out Hoon\nTotal Tu Out Ho\nBehne Phir Hai Yahi\nKeh Do Jo Na Kahi\n\nTalli Hoon Kehta Hoon\nDil Ki Mil Gaake Yun\n\nLove Me Little Little Little\nLittle Little Little Little\nLove Me Little Little Little\nLittle Little\n\nLove Me Little Little Little\nLittle Little Little Little\nLove Me Little Little Little\nLittle Little Little Little\n\nArey Arey Arey Arey\nDear Dear Aaja Near Near\nBole Fear Fear\nKare Cheers Cheers\n\nArey Arey Arey Arey\nDear Dear Aaja Near Near\nBole Fear Fear\nKare Cheers Cheers\n\nHealing Hai Feeling\nAb Na Dealing\nUnh Huh Haye Kar\nHaaye Kar Haaye Kar\n\nLove Me Little Little Little\nLittle Little Little Little\nLove Me Little Little Little\nLittle Little\n\nLove Me Little Little Little\nLittle Little Little Little\nLove Me Little Little Little\nLittle Little Little Little\n\nNadiyan Mein\nKaanta Dale Baitha Main\nThak Gaya\nLadki Baitha Baitha Main\n\nIss Laal Pani Mein\nJawani Na Dubani Maine\nKhusar Fusar Fusar Fusar\nKarle Idhar\n\nOh Tukur Tukur Tukur\nKya Tu Dekhe Udhar\n\nLove Me Little Little Little\nLittle Little Little Little\nLove Me Little Little Little\nLittle Little Little\n\nLove Me Kunjum Kunjum\nKunjum Kunjum Kunjum\nLove Me Kunjum Kunjum\nOh Kunjum\n\nOh\n\nOh Sharabi Tera Paara Chadha\nIshq Mein Namak Na\nYun Hi Zayda Badha\n\nJahan Tu Wahi Pe\nMere Wala Khada\nAkal Pe Nazar Pe\nTeri Tala Pada\n\nMujhko Tu Chhod De\nAaja Hosh Mein\nBottle Tod De\n\nBolti Hoon Bolti Hoon\n\nLove Me Little Little Little\nLittle Little Little Little\nLove Me Little Little Little\nLittle Little\n\nLove Me Little Little Little\nLittle Little Little Little\nLove Me Little Little Little\nLittle Little Little Little"
+              },
+              {
+                "name":"Tumhein Mohabbat Hai Song",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/2WTvSzXVZvA/maxresdefault.jpg",
+                "singer":"Arijit Singh",
+                "lyricsby":"Irshad Kamil",
+                "music":"A. R. Rahman",
+                "lyrics":"Teri Aankhon Mein Jhaakne Wala\nTere Hothon Pe Kaapne Wala\nTeri Baaton Mein Bolne Wala\nBaal Raaton Mein Kholne Wala\n\nGarm Saanson Mein\nGhull Raha Hai Jo\nWoh Akele Mein Mill Raha Jo\n\nKhwab Mein Aake Pyar Karta Hai\nRoz Sau Baar Tumpe Marta Hai\nKhwab Mein Aake Pyar Karta Hai\nRoz Sau Baar Tumpe Marta Hai\n\nKhinch Ke Bajuon Mein Lele Jo\nKaan Ki Waaliyon Se Khele Jo\n\nHaq Jatata Hai Jo Sabhi Tumpe\nPuchhna Chahta Hoon Main Tumse\nHaq Jatata Hai Jo Sabhi Tumpe\nPuchhna Chahta Hoon Main Tumse\n\nKaun Hai Kaisa\nKaun Hai Kaisa\nKaisa Dikhta Hai\n\nKaun Hai Kaisa\nKaisa Dikhta Hai\n\nJaanta Hoon Ke Nahi\nMain Woh Nahi\nMain Woh Nahi\n\nWoh Ki Jis Se\nTumhein Mohabbat Hai\nTumhein Mohabbat Hai"},
+              {
+                "name":"Rait Zara Si Song",
+                "image":"",
+                "song-image":"https://i.scdn.co/image/ab67616d0000b273004f83c1be7d66c4677b32a8",
+                "singer":"Arijit Singh, Shashaa Tirupati",
+                "lyricsby":"Irshad Kamil",
+                "music":"A. R. Rahman",
+                "lyrics":"Hona Tera Hona\nPaana Tumko Paana\n\nJeena Hai Yeh Maana\nPal Bhar Mein Sadiyan\nHai Sadiyon Mein\nJeena Hai Yeh Maana\n\nHath Mein Teri Khushbu Hai\nKhushbu Se Dil Behla Hai\nYeh Hathon Se Yun Fisla Hai\nHo Jaise Rait Zara Si\n\nRoz Mohabbat Padhta Hai\nDil Yeh Tumse Judta Hai\nHawaon Mein Yun Udta Hai\nHo Jaise Ret Zara Si\n\nYeh Hulchul\nDil Ki Yeh Hulchul\nBole Aaj Aas Paas Tu Mere\n\nBikhra Hoon Main Toh\nKuchh Pal Hawa Mein\nTere Bharose Ko Thaame\n\nChalna Bhi Hai Badalna Bhi Hai\nTujhme Hi Toh Dhalna Bhi Hai\n\nDil Thoda Jazbaati Hai\nBhar Jaata Hai Baaton Se\nYeh Phir Chhalke Yun Aankhon Se\nHo Jaise Ret Zara Si\n\nHath Mein Teri Khushbu Hai\nSach Puchho Toh Ab Yun Hai\nTu Chehre Pe Mere Thehra\nHo Jaise Ret Zara Si"},
+              {
+                "name":"Toofan Si Kudi Song",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/7HIsbzhmNgk/maxresdefault.jpg",
+                "singer":"Rashid Ali",
+                "lyricsby":"Irshad Kamil",
+                "music":"A. R. Rahman",
+                "lyrics":"Ae hatt jaa peeche\nAe dan danati\nBijli dhaude chamchamaati\n\nAe hatt jaa peeche\nAe dan danati\nBijli dhaude chamchamaati\nDhun dhun\n\nDard ward gull\nLapak laage bull\nToofan si kudi udi\nDhayen dhayen dhayen\n\nDard ward gull\nLapak laage bull\nToofan si kudi udi\nDhayen dhayen dhayen\n\nMaati ishaq waali chuleh chadhi\nRapat pe rapat pe rapat padi\nChori chakori ka chakkar chala\nAmma ki twinkle ne sankal ladi\n\nHo o thath se thitholi hai\nIshq mein rangoli\nToofan si kudi udi\nDhayen dhayen dhayen\n\nThath se thitholi hai\nIshq mein rangoli\nToofan si kudi udi\nDhayen dhayen dhayen\n\nAra ra raa\nItna itna jhuth jatil\nKitna kitna ban gai gori\nBitna bitna sarpat sarpat daudi\nLapat jhapat aayi re\nNagar bhatak aayi re\nLadki yeh rambha\nKarti yeh zumba\nDhayen dhayen dhayen\n\nHo o thath se thitholi hai\nIshq mein rangoli\nToofan si kudi udi\nDhayen dhayen dhayen\n\nThath se thitholi hai\nIshq mein rangoli\nToofan si kudi udi\nDhayen dhayen dhayen\n\nAe hatt jaa peeche\nAe dan danati\nBijli dhaude chamchamati\n\nAe hatt jaa peechhe\nAe dan danati\nBijli dhaude chamchamati\nDhun dhun\n\nDard ward gull\nLapak lage bull\nToofan si kudi udi\nDhayen dhayen dhayen\n\nDard ward gull\nLapak lage bull\nToofan si kudi udi\nDhayen dhayen dhayen\n\nMaati ishaq wali chuleh chadhi\nRapat pe rapat pe rapat padi\nChori chakori ka chakkar chala\nAmma ki twinkle ne sankal ladi\n\nHo o thath se thitholi hai\nIshq mein rangoli\nToofan si kudi udi\nDhayen dhayen dhayen\n\nThath se thitholi hai\nIshq mein rangoli\nToofan si kudi udi\nDhayen dhayen dhayen\n\nHo o thath se thitholi hai\nIshq mein rangoli\nToofan si kudi udi\nDhayen dhayen dhayen\n\nThath se thitholi hai\nIshq mein rangoli\nToofan si kudi udi\nDhayen dhayen dhayen\n\nThath se thitholi hai\nIshq mein rangoli\nToofan si kudi udi\nDhayen dhayen dhayen\n\nHo o thath se thitholi hai\nIshq mein rangoli\nToofan si kudi udi\nDhayen dhayen dhayen\n\nThath se thitholi hai\nIshq mein rangoli\nToofan si kudi udi\nDhayen dhayen dhayen"}
+            ]
+          },
+          {
+            "name": "Tadap",
+            "image": "https://i.ytimg.com/vi/HdD6rU98yvg/maxresdefault.jpg",
+            "songs": [
+              {
+                "name":"Tumse Bhi Zyada Song",
+                "image":"https://1.bp.blogspot.com/-8mHn1QFipAk/Yamz_Hme4WI/AAAAAAABKjY/sX9IxYfE_I4Q06BCsRKp0DD0qq5Rr9yVgCNcBGAsYHQ/s700/Tadap-movie-3.jpg",
+                "song-image":"https://static.toiimg.com/photo/msid-87776720/87776720.jpg",
+                "singer":"Arijit Singh",
+                "lyricsby":"Irshad Kamil",
+                "music":"Pritam Chakraborty",
+                "lyrics":"Mohabbat Mein Yun Hadd Ko Paar Kiya\nMohabbat Mein Yun Hadd Ko Paar Kiya\nTumse Bhi Zyada Tumse Pyaar Kiya\nTumse Bhi Zyada Tumse Pyaar Kiya\n\nDard Ki Hadon Ko Bhi Paar Kiya\nDard Ki Hadon Ko Bhi Paar Kiya\nTumse Bhi Zyada Tumse Pyaar Kiya\nHo…Tumse Bhi Zyada Tumse Pyaar Kiya\n\nTu Meri Thi Meri Hai Agar Khabar Aa Jaaye\nBesabare Se Dil Ko Bewaqt Sabar Aa Jaaye\n\nKhushi Deke Tumko Gum Udhaar Liya\nKhushi Deke Tumko Gum Udhaar Liya\nTumse Bhi Zyada Tumse Pyaar Kiya\nHo…Tumse Bhi Zyada Tumse Pyaar Kiya\n\nHo… Ho… Ho…\n\nHo… Yeh Tadap Kaisi Hai\nYeh Jalan Hai Kaisi\nHaalaki Dono Mein\nHai Wafa Pehle Si\n\nJo Rang Tera Hai\nWoh Rang Hai Mera\nKuch Main Tere Jaisa\nKuch Tu Mere Jaisi\n\nJudaai Ne Humko Ek Saar Kiya\nJudaai Ne Humko Ek Saar Kiya\nTumse Bhi Zyada Tumse Pyaar Kiya\nHo…Tumse Bhi Zyada Tumse Pyaar Kiya\n\nMohabbat Mein Yun Hadd Ko Paar Kiya\nMohabbat Mein Yun Hadd Ko Paar Kiya\nTumse Bhi Zyada Tumse Pyaar Kiya\nHo…Tumse Bhi Zyada Tumse Pyaar Kiya\n\nHmm… Aa Gale Mil Phir Se\nPhir Zara Chain Aaye\nHo Mere Honthon Pe\nPhir Tere Hi Saayein\n\nBin Tere Jeena Bhi\nMaut Hi Lagta Hai\nYa Tu Aa Jaaye Ya\nSaans Bhi Na Aaye\n\nDuaon Mein Aisa Izhaar Kiya\nDuaon Mein Aisa Izhaar Kiya\nTumse Bhi Zyada Tumse Pyaar Kiya\nHo…Tumse Bhi Zyada Tumse Pyaar Kiya\n\nMohabbat Mein Yun Hadd Ko Paar Kiya\nMohabbat Mein Yun Hadd Ko Paar Kiya\nTumse Bhi Zyada Tumse Pyaar Kiya\nHo…Tumse Bhi Zyada Tumse Pyaar Kiya\n\nHo… Ho… Ho…\n\n“Dil Hai Hi Badi Ajeeb Si Cheez\nHazaron Se Lad Jaata Hai\nPar Kisi Ek Se Haar Jaata Hai”\n\nTumse Bhi Zyada Tumse Pyaar Kiya!"},
+              {
+                "name":"Tere Siva Jag Mein Song",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/sbWPFRaAhcQ/maxresdefault.jpg",
+                "singer":"darshan raval, Shilpa Rao",
+                "lyricsby":"Irshad Kamil",
+                "music":"Pritam Chakraborty",
+                "lyrics":"Agar main sharaab hota\nGale se utarta sir pe chadhta\nHar dil par mera raaj hota\nHar pyaas ka taaj hota\n\nTere siva jag mein\nMera na koyi aur\nAankhon ke shehar mein\nTera tha intezaar\n\nTumse tumhi ko\nMaanga maine udhar\nBaahon mein apni\nAane de ik baar\n\nTere siva jag mein\nTere siva jag mein\nTere siva jag mein\n\nTera hoon main iss lamha\nSar se paanv talak\nAise mujhe thaam zara\nMain na jaaun chhalak\n\nShauk se pee mujhe\nMain tera jaam hoon\nIk dafa aaye jo\nMain to woh shaam hoon\n\nTu na mile mujhko\nTo jeena hai bekaar\nTere bina khaali\nHai khwaabon ka bazaar\n\nTumse tumhi ko\nMaanga maine udhar\nBaahon mein apni\nAane de ik baar\n\nTere siva jag mein\nTere siva jag mein\nTere siva jag mein"},
+              {
+                "name":"Tu Mera Hogaya Hai Song",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/gTGS0IvjcdY/maxresdefault.jpg",
+                "singer":"Pritam Chakraborty, B Praak, Dino James",
+                "lyricsby":"Irshad Kamil",
+                "music":"Pritam Chakraborty",
+                "lyrics":"Ho o tu mera ho gaya hai\nAaye naa yakeen ye\nTu mera ho gaya hai\nKhwaab toh nahin yeh\nTu mera ho gaya hai\nYaa ke nahin\n\nTu mera ho gaya toh\nJannat zameen pe\nTu mera ho gaya hai\nKhwaab toh nahin yeh\nTu mera ho gaya hai\nYaa ke nahin\n\nAgar yeh khwaab hai toh main\nTera hi khwaab rahunga\nNahi ab chain ki chaahat\nYun hi betaab rahunga\n\nAgar yeh khwaab hai toh main\nTera hi khwaab rahunga\nNahi ab chain ki chaahat\nYun hi betaab rahunga\n\nTu mera ho gaya hai\nBaat hai haseen yeh\nTu mera ho gaya hai\nAaye naa yakeen yeh\nTu mera ho gaya hai\nYaa ke nahin\n\nPehle se zyada, sheesha main dekhun\nPehle se zyada hastaa rahun\nMain jab akela hota hun tab bhi\nTumse hi baatein karta rahun\n\nPehle se zyada, sheesha main dekhun\nPehle se zyada hastaa rahun\nMain jab akela hota hun tab bhi\nTumse hi baatein karta rahun\n\nAgar paagalpanaa hai yeh\nToh paagal aaj rahunga\nTeri hasti nigaahon ka\nMain banke raaz rahunga\n\nAgar paagalpanaa hai yeh\nToh paagal aaj rahunga\nTeri hasti nigaahon ka\nMain banke raaz rahunga\n\nJahaan tu hai yeh dil bhi\nAata hai wahin pe\nTu mera ho gaya hai\nKhwaab toh nahi yeh\nTu mera ho gaya hai\nYaa ke nahin\n\nHo o jeena hai mujhko tere liye hi\nYeh faisla hai maine kiya\nTeri hi khaatir marna bhi chahoon\nMarna hai lekin bas shaukiya\n\nAgar jaadu hai yeh tera\nUtarne naa ise dena\nMujhe kaabu mein karle tu\nSambhalne naa mujhe dena\n\nAgar jaadu hai yeh tera\nUtarne naa ise dena\nMujhe kaabu mein karle tu\nSambhalne naa mujhe dena\n\nHua bhi yeh sach mein\nYaa hua nahin hai\nTu mera ho gaya hai\nKhwaab toh nahi yeh\nTu mera ho gaya hai\nYaa ke nahin"},
+              {
+                "name":"Hoye Ishq Na Song",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/OxI3s5wWDSc/maxresdefault.jpg",
+                "singer":"B Praak, Dino James",
+                "lyricsby":"Irshad Kamil",
+                "music":"Pritam Chakraborty",
+                "lyrics":"Ho dilaa marjaaneyaa ho o..\n\nHo dilaa marjaaneyaa\nIshq tu naa kariyo zalima\nHo haath kuch naa aayega\nYe badal ke rakh dega samaa\n\nHo dilaa marjaaneyaa\nIshq tu naa kariyo zalima\nHo haath kuch naa aayega\nYe badal ke rakh dega samaa\n\nBach sake tu agar\nBach ke rehna magar\nMangdaa rahin tu yeh dua\n\nHoye ishq naa, hoye ishq naa\nHoye ishq naa, yaa khuda\nHoye ishq naa, hoye ishq naa\nHoye ishq naa, yaa khuda\n\nHoye ishq naa, hoye ishq naa\nHoye ishq naa, yaa khuda\nHoye ishq naa, hoye ishq naa\nHoye ishq naa, yaa khuda\n\nMain sahi bolun samjhaa nahi sakta\nJo bhi andar chal raha hai\nMain sab kuchh ishq ke naam kiya\nAur ab woh mujhko khal raha hai\n\nYeh teri di barbaadi hai\nJo mere andar pal raha hai\nIshq jaise koyi ajgar hai\nJo dheere se nigal raha hai\n\nMain try karun par kya karun\nTu jaati nahi hai mann se\nMain aaina dekh ke bolta hun\nPaagal hai kya tu bande\n\nMere naam ki mehndi udd gayi\nTeri syaahi ab tak tan mein\nIss jag ne mujhko uksaya\nTabhi maine maari panje\n\nDikha de koi chor mujhe\nMain tuta aur naa tod mujhe\nTakdeeron se shikayat hai\nSaath de, na aise chhod mujhe\n\nYe thoughts hain mere loud\nMain baith ke bas chillaaun\nAb kisi pe main vishwas nahi karta\nKhud pe hoti doubts\n\nCommon tha vish mein\nApno se bada distance\nSocha tha aabaad\nPar barbaad kiya ishq ne\n\nSulge sulge koyalon pe\nHo o.. nange pairon chalnaa hai\nJalte jalte bujh jana\nHo o.. bujhte bujhte jalna hai\n\nSulge sulge koyalon pe\nHo o.. nange pairon chalnaa hai\nJalte jalte bujh jana\nHo o.. bujhte bujhte jalna hai\n\nYeh raaten roz sulagti hain\nYaadein rog si lagti hai\nAansu aaye bhi toh\nRoye ishq naa..\n\nHoye ishq naa, hoye ishq naa\nHoye ishq naa, yaa khuda\nHoye ishq naa, hoye ishq na\nHoye ishq naa, yaa khuda\n\nHoye ishq naa, hoye ishq na\nHoye ishq naa, yaa khuda\nHoye ishq naa, hoye ishq na\nHoye ishq naa, yaa khuda\n\nAa.. ho dilaa marjaaneyaa\nHo.. o.."}
+            ]
+          },
+          {
+            "name": "Bajirao Mastani",
+            "image": "https://jiocinemaweb.cdn.jio.com/jioimages.cdn.jio.com/content/entry/dynamiccontent/thumbs/1680/-/0/28/63/536f5fd1564c11e68ab857b70042686d_1595221746352_l_medium.jpg",
+            "songs": [
+              {
+                "name":"Deewani Mastani Song",
+                "image":"https://jiocinemaweb.cdn.jio.com/jioimages.cdn.jio.com/content/entry/dynamiccontent/thumbs/1680/-/0/28/63/536f5fd1564c11e68ab857b70042686d_1595221746352_l_medium.jpg",
+                "song-image":"https://i.ytimg.com/vi/zRtPUIumXcY/maxresdefault.jpg",
+                "singer":"Shreya Ghoshal, Ganesh Chandanshive Qawwali",
+                "lyricsby":"Siddharth, Garima",
+                "music":"Sanjay Leela Bhansali",
+                "lyrics":"Navatuni aali apsara\nNavatun aali apsara\nAshi sundara saaj saazpunna\nAali aali aali, aali ga aali\nJaisa maathi maanla gajra\nDokyacha nazraa, teel tichyavar\nAali aali aee haa\n \nDuniya chi pyaari tu\nAga naari harniga\nAga raani sundaraa haaa\nAali ga aali\nAali ga aali\nAali aaliiii\n \nNazar jo teri laage main deewani hogayi\nDeewani haa deewani, deewani hogayi\nMashoor mere ishq ki kahani hogayi\nJo jag ne na maani toh maine bhi thaani\nKahan thi main dekho, kahan chali aayi\nKehte hai yeh deewani mastani hogayi\n \nMashoor mere ishq ki kahani hogayi\nJo jag ne na maani toh maine bhi thaani\nKahan thi main dekho kahan chali aayi\nKehte hai yeh deewani mastani hogayi\nDeewani haa deewani, deewani hogayi\n \nJakham aisa tune lagaya\nDeewani...deewani...deewani...deewani hogayi\nMarham aisa tune lagaya\nRoohani, roohani, roohani, roohani hogayi\nPehchaan mere ishq ki ab to [x2]\nRawani, rawani, rawani, rawani hogayi\n \nMashoor mere ishq ki kahani hogayi\nKehte hai yeh deewani mastani hogayi\nDeewani haa deewani, deewani hogayi\n \nMashoor mere ishq ki kahani hogayi\nJo jag ne na maani toh maine bhi thaani\nKahan thi main dekho kahan chali aayi\nKehte hai yeh deewani mastani hogayi\nDeewani haan deewani, deewani hogayi\n \nSab noor noor sa bikhra hai\nEk tu hi khayalon mein utra hai\nBas jhoom jhoom jhoom jhoom jaata hai dil\nTu mastani hai tu deewani hai\nPaakeza hasti hai teri tu noorani hai\nSab noor noor sa bikhra hai\nEk tu hi khayalon mein utra hai"},
+              {
+                "name":"Pinga Song",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/KMuOUIfFOPw/maxresdefault.jpg",
+                "singer":"Shreya Ghoshal, Vaishali Made",
+                "lyricsby":"Siddharth, Garima",
+                "music":"Sanjay Leela Bhansali",
+                "lyrics":"Inga ga pori\nPinga ga pori\nPinga ga pori pinga\n\n\nMala pingyani maala\nBholavli raat\nGhalavli pori pinga\n\n\nLatpat latpat kamar daamini adhar ragini ho..\nHey..latpat latpat kamar daamini\nAdhar ragini nirdhar aayi kaise saji dhaji\nDekho mere piya ki sanwari jiya se banwari\nMere angna mein dekho aaj khila hai chaand\n\n\nKe baaje dhun jham-jham jhamak jha\nTo nache mann cham-cham chamak cha\n\n\nInga ga pori\nPinga ga pori\nPinga ga pori pinga\n\n\nInga ga pori\nPinga ga pori\nPinga ga pori pinga\n\n\nAa…\n\n\nMere jiya mein utaari\nTune paini piya ki kataari\nHaan..tu jaane ye duniyadaari\nMain tu hoon bas mohabbat ki maari\n\n\nJo peer meri hai so peer teri\nAre dono ki maang laage\nSooni aadhi aadhi naa..\n\n\nKe baaje dhun jham jham jhamak jhaa\nTo naache mann cham cham chamak chaa\nKe baaje dhun jham jham jhamak jhaa\nTo nache mann cham cham chamak chaa\n\n\nInga ga pori\nPinga ga pori\nPinga ga pori pinga\n\n\nInga ga pori\nPinga ga pori\nPinga ga pori pinga\n\n\nInga ga pori\nPinga ga pori\nPinga ga pori pinga\n\n\nInga ga pori\nPinga ga pori\nPinga ga pori pinga."},
+              {
+                "name":"Malhari Song",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/YUH9jD__qHY/maxresdefault.jpg",
+                "singer":"Vishal Dadlani",
+                "lyricsby":"Prashant Ingole",
+                "music":"Sanjay Leela Bhansali",
+                "lyrics":"Bajne de dhadak dhadak\nDhok taashe thadak thadak\nBhandara jhidak jhidak malhari\nKhadak tadak bhadak saali\nChatak matak fatak saali\nDushman ki dekho jo waat laauli\n\n\nBajne de dhadak dhadak\nDhok taashe thadak thadak\nBhandara jhidak jhidak malhari\nKhadak tadak bhadak saali\nChatak matak fatak saali\nDushman ki dekho jo waat laauli\n\n\nBajne de dhadak dhadak\nDhok taashe thadak thadak\nBhandara jhidak jhidak malhari\nKhadak tadak bhadak saali\nChatak matak fatak saali\nDushman ki dekho jo waat laauli\n\n\nDheere dheere badhi chali, badhi chali\nHai jo thi chingari, choti chingari\nBhari bhari bhari bhari bhari bhari\nHai mann ki almari, aaj almari\nHui satrangi, saali satrangi\nHui satrangi thi jo ye raat kaali\n\n\nAe khadak tadak bhadak sali\nChatak matak fatak sali\nDushman ki dekho jo waat laauli\n\n\nChaka chaka chaka\nChaka chaka chaka chaund\nApni basti re saali basti re\nRapa rapa rapa rapa rapa rapa rap\nSaare masti mein\nDoobe masti mein\n\n\nBadi attrangi hui attrangi\nBadi attrangi apni ye jeet saali\n\n\nAe kadak tadak bhadak sali\nChatak matak fatak sali\nDushman ki dekho jo waat laauli\n\n\nBajne de dhadak dhadak\nDhok taashe thadak thadak\nBhandara jhidak jhidak malhari\nKhadak thadak phadak saali\nChatak matak fatak saali\nDushman ki dekho jo waat laauli\n\n\nBajne de dhadak dhadak\nDhok taashe thadak thadak\nBhandara jhidak jhidak malhari\nKhadak thadak phadak saali\nChatak matak fatak saali\nDushman ki dekho jo waat laauli."},
+              {
+                "name":"Mohe Rang Do Laal Song",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/z1kHpkfzLsQ/maxresdefault.jpg",
+                "singer":"Shreya Ghoshal, Pandit Birju Maharaj",
+                "lyricsby":"Siddharth, Garima",
+                "music":"Sanjay Leela Bhansali",
+                "lyrics":"Mohe rang do laal\nMohe rang do laal\nNand ke laal laal\nChhedo nahi bas rang do laal\nMohe rang do laal\n\n\nDekhu dekhu tujhko main hoke nihaal\nDekhu dekhu tujhko main hoke nihaal\nChhu lo kora mora kaanch sa tann\nNain bhar kya rahe nihaar\n\n\nMohe rang do laal\nNand ke laal laal\nChhedo naahi bas rang do laal\nMohe rang do laal\n\n\nMarodi kalaai mori\nMarodi kalaai mori\nHaan kalaai mori\nHaan kalaai marodi..kalaai mori\nChurri chatkai ittrai\nToh chori se garwa lagai\n\n\nHari ye chunariya\nJo jhatke se chheeni\n\n\nHari ye chunariya\nJo jhatke se chheeni\n\n\nMain toh rangi hari hari ke rang\nLaaj se gulaabi gaal\n\n\nMohe rang do laal\nNand ke laal laal\nChhedo nahi bas rang do laal\nMohe rang do laal\n\n\nMohe rang do laal."},
+              {
+                "name":"Albela Sajan Song",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/35LQxXSGZAw/maxresdefault.jpg",
+                "singer":"Prithvi Gandharva, Rashi Raagga, Shashi suman, Kunal Pandit, Kanika Joshi, Geetikka Manjrekar",
+                "lyricsby":"Siddharth, Garima",
+                "music":"Sanjay Leela Bhansali",
+                "lyrics":"Albela sajan aayo ri\nAlbela sajan aayo ri\nMora ati mann sukh paayo ri\n\nAlbela sajan aayo ri\nMora ati mann sukh aayo ri\n\nAlbela sajan aayo re (x2)\n\nChanuk puraao mangal gaao\nChanuk puraao mangal gaao\nAti mann sukh paayo ri\nAlbela sajan aayo ri\n\nMora ati mann sukh paayo ri\nAlbela sajan aayo ri\nAlbela sajan aayo re..\n\nHmm.. aa…\n\nAng sugandhit mann aanandit\nAng sugandhit mann aanandit\nChahun aur rang barsaayo\nChahun aur rang barsaayo ri\n\nAlbela sajan aayo ri\nAlbela sajan aayo re\nMora ati mann sukh paayo re\nAlbela sajan aayo ri\nAlbela sajan aayo ri\n\nAlbela…"},
+              {"name":"Aayat Song",
+              "image":"",
+              "song-image":"https://i.ytimg.com/vi/85LA5CKMW_I/maxresdefault.jpg",
+              "singer":"Arijit Singh, Altamash Faridi, Mujtaba Aziz Naza, Farhan Sabri, Shadab Faridi",
+              "lyricsby":"A.M Turaz",
+              "music":"Sanjay Leela Bhansali",
+              "lyrics":"Tujhe yaad kar liya hai\nTujhe yaad kar liya hai\nAayat ki tarah\nKaayam tu ho gayi hai\nKaayam tu ho gayi hai\nRivayat ki tarah\n\n\nTujhe yaad kar liya hai\nMarne talak rahegi\nMarne talak rahegi\nTu aadat ki tarah\n\n\nTujhe yaad kar liya hai\nO tujhe yaad kar liya hai\nAayat ki tarah\n\n\nYe teri aur meri\nMohabbat hayat hai\nHar lamha isme jeena\nMuqaddar ki baat hai\n\n\nKehti hai ishq duniya jise\nKehti hai ishq duniya jise\nMeri jaan-e-mann\nIss ek lafz mein hi\nChhupi qaaynaat hai..\n\n\nMere dil ki raahaton ka tu\nZariya ban gayi hai\nTeri ishq ki mere dil mein\nKayi eid mann gayi hai\n\n\nTera zikr ho raha hai\nTera zikr ho raha hai\nIbaadat ki tarah\n\n\nTujhe yaad kar liya hai\nO tujhe yaad kar liya hai\nAayat ki tarah\n\n\nHmm…"},
+              {
+                "name":"Gajanana Song",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/wGkcQmzysu0/maxresdefault.jpg",
+                "singer":"Sukhwinder Singh",
+                "lyricsby":"Prashant Ingole",
+                "music":"Shreyas Puranik",
+                "lyrics":"Sukhkarta dukhharta varta vighnachi\nNurvi purvi prem krupa jayaachi\nSarvangi sundar uti shendurachi\nKanthi jhalke maal muktaphalanchi\nJai dev jai dev\nJai dev jai dev jai mangal murti\nHo shri mangal murti\nDarshan matre man kamana purti\nJai dev jai dev\n\nLambodar tu, Vinayak tu\nAllah Ishwar moreya\nVighneshwar tu, Ek-dant tu\nMayureshwra moreya x (2)\nVakratund tu, Gajmukhang tu\nSiddhi Vinayak\n\nGajanana, Gajanana, Gajanana ganraya x (4)\n\nRatnakhachit phara tuj gaurikumra\nChandanachi ooti kumkum keshra\nHeerejadit mukut shobhto bara\nRunjhunthi nupurein charani ghaghriya\nJai dev jai dev\n\nLambodar peetambar phaniwar vandana\nSaral sond vakratunda trinayna\nDaas ramacha waat paahe sadna\nSankati pahave nirvani rakshaave survar vandana\nJai dev jai dev\n\nVighnaraaj tu, mahataaj tu\nMaheshaaye tu moreya\nChintamani tu, Siddhi nayaka\nGanadheeshaye moreya\nVakratund tu, Gajmukhang tu\nSiddhi Vinayak\nVakratund tu, Gajmukhang tu\nSiddhi Vinayak\n\nGajanana, Gajanana, Gajanana ganraya x (4)\nGajanana Gajanana\n\nGajanana, Gajanana, Gajanana ganraya x (4)\n\nHare Ram, hare Ram\nRam Ram hare hare\nHare Krishna, hare Krishna\nKrishna Krishna hare hare x (3)"}
+            ]
+          },
       {
         "name": "Baarish Ki Jaaye",
         "image": "https://www.lyricsgoal.com/wp-content/uploads/2021/03/baarish-ki-jaaye-b-praak.jpg",
