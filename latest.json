@@ -10,6 +10,52 @@
         "name": "Hindi",
         "albums": [
           {
+            "name": "Shershaah",
+            "image": "https://cdn.gulte.com/wp-content/uploads/2021/08/Sher.jpg",
+            "songs": [
+              {
+                "name":"Raatan Lambiyan",
+                "image":"https://cdn.gulte.com/wp-content/uploads/2021/08/Sher.jpg",
+                "song-image":"https://i.ytimg.com/vi/lkFmejFYpuo/maxresdefault.jpg",
+                "singer":"Asees Kaur, Jubin Nautiyal",
+                "lyricsby":"Tanishk Bagchi",
+                "music":"Tanishk Bagchi",
+                "lyrics":"Teri Meri Gallaan Ho Vi Mashoor\nKar Na Kabhi Tu Mujhe Nazron Se Door\nKithe Chaliye Tu, Kithe Chaliye Tu\nKithe Chaliye\n\nJaanda Ae Dil Yeh To Jaandi Ae Tu\nTere Bin Main Na Rahoon Mere Bina Tu\nKithe Chaliye Tu, Kithe Chaliye Tu\nKithe Chaliye\n\nKaantoo Kaise Raatan O Sanwre\nJiya Nahin Jaata Sun Banwre\nKe Raatan Lambiyan Lambiyan Re\nKate Tere Sangeya Sangeya Re\nKe Raatan Lambiyan Lambiyan Re\nKate Tere Sangeya Sangeya Re\n\nCham Cham Cham Ambaran De Taarein\nKenhde Ne Sajna\nTu Hi Chand Mere Is Dil Da\nMaan Le Ve Sajna\nTere Bina Mera Hove Na Guzaara\nChhad Me Na Jaavi Mainu Tu Tu Hi Sahara\n\nKaantoo Kaise Raatan O Sanwre\nJiya Nahin Jaata Sun Banwre\nKe Raatan Lambiyan Lambiyan Re\nKate Tere Sangeya Sangeya Re\nKe Raatan Lambiyan Lambiyan Re\nKate Tere Sangeya Sangeya Re\n\nKe Raatan Lambiyan Lambiyan Re\nKate Tere Sangeya Sangeya Re\nKe Raatan Lambiyan Lambiyan Re\nKate Tere Sangeya Sangeya Re.."},
+              {
+                "name":"Ranjha",
+                "image":"",
+                "song-image":"https://lyricstek.com/wp-content/uploads/2021/08/ranjha-song-shershah.jpg",
+                "singer":"Jasleen Royal, B Praak",
+                "lyricsby":"Anvita Dutt Guptan",
+                "music":"Azeem Dayani",
+                "lyrics":"Roothi Ae Sabte Rabba\nRabba Dil Bhi Hai Rootha\nSab Kuchh Hai Bikhra Bikhra\nBikhra Sa Rootha Rootha\n\nChup Maahi Chup Hai Ranjha\nBole Kaise Ve Na Ja\nBole Kaise Ve Na Ja\nAaja Aaja\n\nBole Kaise Ve Na Ja\nBole Kaise Ve Na Ja\nChup Maahi Chup Hai Ranjha\nAaja Aaja\n\nVe Mera Dola Ni Aaya Dola\nVe Mera Dola Ni Aaya Dola\nVe Mera Dola Ni Aaya Dola\nVe Mera Dola Ni Aaya Dola\n\n\n \nOh Rabb Vi Khel Hai Khele\nRoz Lagave Mele\nKehnda Kuch Na Badla\nJhooth Bole Har Velle\n\nOh Rabb Vi Khel Hai Khele\nRoz Lagave Mele\nKehnda Kuch Na Badla\nJhooth Bole Har Velle\n\nChup Maahi Chup Hai Ranjha\nBole Kaise Ve Na Ja\nBole Kaise Ve Na Ja\nAaja Aaja\n\nBole Kaise Ve Na Ja\nBole Kaise Ve Na Ja\nChup Maahi Chup Hai Ranjha\nAaja Aaja\n\nNi Main Rajj Rajj Hijar Manawa\nNi Main Khud Toh Russ Murjhawa\nNi Main Rajj Rajj Hijar Manawa\nNi Main Khud Toh Russ Murjhawa\n\nKalli Bheed Ch Baithi\nTeri Peed Le Baithi\nRusseya Ranjha Ve Mera\nMain Vi Kamm Na Aithi\n\nKalli Bheed Ch Baithi, Baithi\nTeri Peed Le Baithi, Baithi\nRusseya Ranjha Ve Mera, Mera\nMain Vi Kamm Na Aithi\n\nChup Maahi Chup Hai Ranjha\nBole Kaise Ve Na Ja\nBole Kaise Ve Na Ja\nAaja Aaja\n\nBole Kaise Ve Na Ja\nBole Kaise Ve Na Ja\nChup Maahi Chup Hai Ranjha\nAaja Aaja"},
+              {
+                "name":"Kabhii Tumhhe",
+                "image":"",
+                "song-image":"https://lyricstek.com/wp-content/uploads/2021/08/kabhi-tumhe.jpg",
+                "singer":"darshan raval",
+                "lyricsby":"Rashmi Virag",
+                "music":"Mohsin Shaikh Javed khan",
+                "lyrics":"Tum agar manaoge to maan jaunga\nMain tere bulaane pe laut aaunga\nHar safar mein sath tera\nMain yoon hi nibhaunga\n\nKabhi tumhe yaad meri aaye\nPalkon se zulfe hata lena\nSaaf dikhunga main tumko wahin\nJo na dikhun to bata dena\n\nKabhi mujhe der jo ho jaaye\nWaqt ko thoda bacha lena\nPhir se milunga main tumko wahin\nJo na milun to saza dena\n\nMeri zameen ko tere kadam ka\nNa jaane kab se tha intezaar\nEk na ek din aana hai tumko\nDil ko mere hai yeh aitbaar\n\nMain khuda se tere siva\nKuch aur na mangunga\n\nKabhi tumhe yaad meri aaye\nItni si baat samajh jaana\nPhir se milunga main tumko wahi\nRaah se meri ghuzar jaana"},
+              {
+                "name":"Mann Bharryaa 2.0",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/1poXN3jF3Bw/maxresdefault.jpg",
+                "singer":"B Praak",
+                "lyricsby":"Jaani",
+                "music":"B Praak",
+                "lyrics":"Ve Methon Tera Mann Bharrya\nMann Bharya Badal Gaya Saara\nVe Tu Mainu Chhad Jaana\n\nGallan Teriyan Ton Lagda Ae Yaara\nVe Methon Tera Mann Bharrya\n\nMann Bharrya Badal Gaya Saara\nVe Tu Mainu Chhad Jaana\nGallan Teriyan Ton Lagda Ae Yaara\n\nGall Gall Te Shaq Kardein\nAitbaar Zara Vi Nai\nHunn Teriyan Ankhiyan Ch\nMere Layi Pyar Zara Vi Nai\n\nMera Te Koyi Hai Ni Tere Bin\nTainu Mil Jana Kise Da Sahara\nVe Tu Mainu Chhad Jaana\nGallan Teriyan Ton Lagda Ae Yaara\n\nKaash Aisa Ho Sakda\nRabb De Pairi Pai Jaandi\nTeri Jagah Pe Jaani\nMaut Mainu Le Jaandi\n\nJo Tu Na Mila Maanenge\nWoh Dehleez Nahi Hoti\nRabb Naam Ki Yaara\nYahan Koyi Cheez Nahi Hoti\n\nHo Rabb Ohnu Kho Lainde\nJehda Howe Ohnu Jaan Ton Pyara\nVe Tu Mainu Chhad Jaana\nGallan Teriyan Ton Lagda Ae Yaara\n\nTu Sabb Jaanda Aen\nMain Chhad Ni Sakdi Tainu\nTaan Hi Taan Unglan Te\nRoz Nachaune Mainu\n\nTu Sabb Jaanda Aen\nMain Chhad Ni Sakdi Tainu\nTeri Yaad Ne Unglan Te\nRoz Nachaune Mainu\n\nAgle Janam Vich Allah\nAisa Khel Racha Ke Bheje\nMainu Tu Bana Ke Bheje\nTainu Main Bana Ke Bheje\n\nHaaye Ikko Hundi Ae Ve Zindagi\nTu Milna Ni Mainu Ve Dobara\nVe Tu Mainu Chhad Jaana\n\nGallan Teriyan Ton Lagda Ae Yaara\nVe Methon Tera Mann Bharrya"},
+              {
+                "name":"Jai Hind Ki Senaa",
+                "image":"",
+                "song-image":"https://i.ytimg.com/vi/1JpxViSRl-k/maxresdefault.jpg",
+                "singer":"vikram montrose",
+                "lyricsby":"Manoj Muntashir",
+                "music":"vikram montrose",
+                "lyrics":"Svadharme Nidhanam Shreyah\nSvadharme Nidhanam Shreyah\nJai Jai Jai Jai Jai Jai\nJai Jai Jai…\n\nSvadharme Nidhanam Shreyah\nJai Jai Jai…\nSvadharme Nidhanam Shreyah\n\nSooraj Ki Tarah Jalta Jaa Tu\nAandhi Ki Tarah Badhta Jaa Tu\nChalta Ja Tu Chalta Jaa\nYe Dharm Hai Tera Ladta Jaa\n\nSooraj Ki Tarah Jalta Jaa Tu\nAandhi Ki Tarah Badhta Jaa Tu\nKadam Ye Tere Kabhi Ruke Naa\n\nJai Hind Ki Senaa\nJai Hind Ki Senaa\n\nBankaro Pe Bam Gira Ke Bol Zindabad Tu\nShershah Hardam Rahega Sarhado Ko Yaad Tu\nPhoonkta Jaa Phoonkta Jaa Zaalimo Ki Bastiyan\nDushmano Ko Kya Pata Hai Aag Ki Aulad Tu\n\nBankaro Pe Bam Gira Ke Bol Zindabad Tu\nShershah Hardam Rahega Sarhado Ko Yaad Tu\nPhoonkta Jaa Phoonkta Jaa Zaalimo Ki Bastiyan\nDushmano Ko Kya Pata Hai Aag Ki Aulad Tu\n\nGhaav Badan Pe Sehta Jaa Tu\nBharat Bharat Kehta Jaa Tu\nParbat Parbat Chadhta Jaa Tu\nVeer Bahadur Ladta Jaa\n\nShapath Hai Tujhko Is Maati Ki\nLadna Jabtak Jaan Hai Baaki\nDam Ruk Jaaye Kadam Ruke Na\n\nJai Hind Ki Senaa\nJai Hind Ki Senaa"}
+            ]
+          },
+          {
             "name": "Chhichhore",
             "image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/1331/641331-h",
             "songs": [
