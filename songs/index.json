@@ -41,6 +41,11 @@
             "description": "Tamil Song Lyrics"
         },
         {
+            "name": "Prime Music",
+            "api": "https://raw.githubusercontent.com/rakshay905/lyricsHublyrics/main/songs/primemusic.json",
+            "description": "Prime Music"
+        },
+        {
             "name": "Collections",
             "api": "https://raw.githubusercontent.com/rakshay905/lyricsHublyrics/main/songs/collections.json",
             "description": "Collections"
