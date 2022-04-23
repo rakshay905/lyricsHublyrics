@@ -2,6 +2,21 @@
     "name": "Punjabi",
     "albums": [
         {
+            "name": "Saadi Yaad",
+            "image": "https://amitmusic.co.in/upload_file/3/thumb-Saadi%20Yaad-%20(AmitMusic.In).jpg",
+            "songs": [
+              {
+                "name": "Saadi Yaad",
+                "image": "https://amitmusic.co.in/upload_file/3/thumb-Saadi%20Yaad-%20(AmitMusic.In).jpg",
+                "song-image": "https://amitmusic.co.in/upload_file/3/thumb-Saadi%20Yaad-%20(AmitMusic.In).jpg",
+                "singer": "Sunanda Sharma",
+                "lyricsby": "Jani",
+                "music": "Jani",
+                "lyrics": "Ho Kinna Jhootha Si Yaara Tera Pyar Ve\nTainu Chhadd Jaave Nava Tera Yaar Ve\nOye Kinna Jhootha Si Yaara Tera Pyar Ve\nTainu Chhadd Jaave Nava Tera Yaar Ve\n\nTainu Na Saadi Yaad Aayi Ve Sohneya\nTainu Na Sadi Yaad Aayi Ve Sohneya\nMain Ro Ro Barsaat Paayi Ve Sohneya\nTainu Na Sadi Yaad Aayi Ve Sohneya\nTainu Na Saadi Yaad Aayi Ve\n\nYaad Aayi Ve Yaad Aayi Ve\nYaad Aayi Ve Yaad Aayi Ve\nTainu Na Sadi Yaad Aayi Ve\n\nHaaye Ikko Chadar Utte Jaani\nSone Aa Ve Raat Nu\nIk Dooje De Gale Naal Milke\nRone Aa Ve Raat Nu\n\nHaaye Ikko Chadar Utte Jaani\nSone Aa Ve Raat Nu\nIk Dooje De Gale Naal Milke\nRone Aa Ve Raat Nu\n\nRone Aa Ve Raat Nu\nRone Aa Ve Raat Nu\nIk Dooje De Gale Naal Milke\n\nHo Main Te Meri Tanhaai Ve Sohneya\nTainu Na Saadi Yaad Aayi Ve Sohneya\nTainu Na Sadi Yaad Aayi Ve Sohneya\nMain Ro Ro Barsaat Paayi Ve Sohneya\nTainu Na Sadi Yaad Aayi Ve\n\nOye Ghungroo Pake Nachange\nTe Tainu Vi Nachavange\nTere Ghar De Saamne\nTeri Photo Nu Agg Lavange\n\nMere Kamre De Vich Laggi Si\nMainu Takdi Rehndi Si\nHaaye Vekh Ke Mainu Rondi Nu\nTeri Photo Hassdi Rehndi Si\nTeri Photo Hassdi Rehndi Si\n\nMain Photo Teri Agg Layi Ve Sohneya\nTainu Na Saadi Yaad Aayi Ve Sohneya\nTainu Na Sadi Yaad Aayi Ve Sohneya\nMain Ro Ro Barsaat Payi Ve Sohneya\nTainu Na Sadi Yaad Aayi Ve Ve Ve\n\nVe Ve Ve.."
+              }
+            ]
+          },
+        {
               "name": "न धुप रहनी न छा बन्",
               "image": "https://i.ytimg.com/vi/orHqx1bRhoo/maxresdefault.jpg",
               "songs": [
